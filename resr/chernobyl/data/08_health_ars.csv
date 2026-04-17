@@ -1,0 +1,17 @@
+parameter,value,unit,notes,source
+initial_ARS_diagnoses,237,persons,Diagnosed on-site in first days after accident; included workers and first responders,UNSCEAR 2008 Annex D; IAEA
+confirmed_ARS_cases,134,persons,Confirmed after full medical evaluation; remaining 103 diagnoses revised,UNSCEAR 2008 Annex D
+deaths_from_explosion_trauma,2,persons,Non-radiation; died at scene,Historical record
+deaths_ARS_within_3_months,28,persons,"ARS-attributable deaths by July 1986; primarily bone marrow failure and radiation burns",UNSCEAR 2008 Annex D
+additional_deaths_1987_to_2004,19,persons,Not all necessarily radiation-attributable; causes include coronary events (7); oncohematological (3); liver cirrhosis (2); lung disease (2),UNSCEAR 2008 Annex D; ResearchGate
+ARS_dose_group_1_mild,41,persons,Dose range: <2.1 Gy whole body; mild bone marrow suppression; majority survived,UNSCEAR 2008 Annex D
+ARS_dose_group_2_moderate,50,persons,Dose range: 2.2-4.1 Gy; moderate ARS; most survived with medical support,UNSCEAR 2008 Annex D
+ARS_dose_group_3_severe,22,persons,Dose range: 4.2-6.4 Gy; severe ARS; significant mortality in this group,UNSCEAR 2008 Annex D
+ARS_dose_group_4_lethal,21,persons,Dose range: 6.5-16 Gy; above LD50/60 for whole body irradiation without support; nearly all died,UNSCEAR 2008 Annex D
+maximum_recorded_dose,16,Gy,Individual high-end dose; whole body external gamma; Chernobyl Forum / IAEA,Chernobyl Forum 2005
+LD50_reference_whole_body,4-5,Gy,Approximate lethal dose to 50% of population without treatment (LD50/60); Chernobyl doses in group 4 far exceeded this,Radiological medicine reference
+radiation_types_received,gamma + beta,,External gamma was dominant dose; beta burns on skin; internal doses from inhalation (I-131 primarily),UNSCEAR 2008 Annex D
+early_dosimeter_saturation,3.6,R/h,Soviet dosimeters used on night of accident had maximum reading of 3.6 R/h; actual readings far exceeded this; initial dose records unreliable for highest-exposed workers,Historical record; INSAG-7
+firefighters_roof_workers,note,,Firefighters on reactor roof (hot graphite) received doses estimated at 1-16 Gy; many in lethal groups; wore inadequate protective equipment,UNSCEAR 2008 Annex D
+pripyat_evacuation_delay,~36,hours,Evacuation of 45000 residents of Pripyat delayed 36+ hours; population received meaningful I-131 thyroid dose during delay,UNSCEAR 2008 Annex D
+pripyat_iodine_tablets,not distributed promptly,,Potassium iodide tablets available but not distributed to Pripyat residents in time to block thyroid uptake; organizational failure,UNSCEAR 2008 Annex D

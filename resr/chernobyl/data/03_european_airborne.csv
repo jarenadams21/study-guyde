@@ -1,0 +1,19 @@
+metric,isotope,value,unit,notes,source
+total_air_observations,I-131,2041,count,Surface air activity concentration measurements (Bq/m3) compiled from European monitoring stations,Evangeliou et al. 2016
+total_air_observations,Cs-134,1927,count,Surface air activity concentration measurements (Bq/m3) compiled from European monitoring stations,Evangeliou et al. 2016
+total_air_observations,Cs-137,1601,count,Surface air activity concentration measurements (Bq/m3) compiled from European monitoring stations,Evangeliou et al. 2016
+total_deposition_observations,Cs-134,2966,count,Ground deposition density measurements (kBq/m2),Evangeliou et al. 2016
+total_deposition_observations,Cs-137,11334,count,Ground deposition density measurements (kBq/m2); largest single isotope observation set in database,Evangeliou et al. 2016
+gridded_resolution_near_CEZ,all,0.01 x 0.01,degrees (~1 km),Gridded product covering 25E-40E / 47N-55N,Evangeliou et al. 2016
+gridded_resolution_Europe,Cs-137,0.1 x 0.1,degrees (~10 km),Broader European coverage,Evangeliou et al. 2016
+gridded_resolution_Europe,Cs-134,0.5 x 0.5,degrees (~50 km),Coarser resolution for Cs-134,Evangeliou et al. 2016
+temporal_coverage,all,April-May 1986,date range,Primary measurement period; some follow-up measurements through 1986,Evangeliou et al. 2016
+FSU_data_availability,Cs-137,<1%,percent of observations publicly available before this study,Data rescue finding: vast majority of FSU measurements were inaccessible or lost,Evangeliou et al. 2016
+FSU_deposition_fraction,Cs-137,~47%,percent of total deposition,Russia + Belarus + Ukraine together received ~47% of total Cs-137 deposition yet contributed <1% of public data,Evangeliou et al. 2016
+example_station_arrival,Sweden (Risoe),~2 days post-explosion,days,Plume detected April 28 1986; first external detection triggering international alert,Historical record
+example_peak_I131_Germany,Ansbach Germany,5.8,Bq/m3 air,April 30 1986; I-131 in air; peak reading at this station; declines after May 1,Kaggle/European monitoring dataset as referenced in ChatGPT session
+example_peak_I131_Germany_day2,Ansbach Germany,5.626,Bq/m3 air,May 1 1986; demonstrates plume peak and beginning of dispersal/decay,Kaggle/European monitoring dataset
+data_access_doi,all,10.1016/j.envpol.2016.05.080,DOI,Evangeliou et al. 2016 Environmental Pollution,Evangeliou et al. 2016
+coverage_note,all,Europe + limited FSU,geographic,Near-CEZ Soviet data is reconstructed not directly measured; primary gap in record,Evangeliou et al. 2016
+units_air,all,Bq/m3,unit,Becquerels per cubic meter; actual particulate radioactivity concentration in air,Standard
+units_deposition,all,kBq/m2,unit,Kilobecquerels per square meter; integrated ground deposition density,Standard

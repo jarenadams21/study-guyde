@@ -1,0 +1,25 @@
+sub_dataset,survey_year,n_samples,radionuclides,measurement_range_low,measurement_range_high,units,notes,source
+Soil_spatial_primary,1997,1200,137Cs + 134Cs + 90Sr + 154Eu,,,kBq/m2 and Bq/kg,Primary CEZ soil survey; ~1.2 km between sites; 5-site composite per location; 30cm depth,Kashparov ESSD 2018
+Cs137_soil_bq_per_kg,1997,1200,Cs-137,6,390,Bq/kg dry weight,Ivankov district values (outside CEZ to south); reference for background comparison,Kashparov ESSD 2018
+Cs137_soil_kBq_per_m2,1997,1200,Cs-137,2,140,kBq/m2,Ivankov district; global fallout baseline ~4 Bq/kg dry weight for comparison,Kashparov ESSD 2018
+Sr90_soil_bq_per_kg,1997,1200,Sr-90,1,160,Bq/kg dry weight,Ivankov district; global fallout baseline ~1 Bq/kg dry weight,Kashparov ESSD 2018
+Sr90_soil_kBq_per_m2,1997,1200,Sr-90,<1,60,kBq/m2,Ivankov max Sr-90 outside CEZ (NE sector): 96 kBq/m2 in 2014,Kashparov ESSD 2018
+Natural_K40_mean,1997,1200,K-40,140,140,Bq/kg dry weight,Mean natural background,Kashparov ESSD 2018
+Natural_Ra226_mean,1997,1200,Ra-226,12,12,Bq/kg dry weight,Mean natural background,Kashparov ESSD 2018
+Natural_Th232_mean,1997,1200,Th-232,10,10,Bq/kg dry weight,Mean natural background,Kashparov ESSD 2018
+Pu_isotopes_bulk,2000-2001,94,Pu-238 + Pu-239/240,,,kBq/m2,82 samples from main release traces + 12 extra; inner CEZ to 200 km,Kashparov ESSD 2018
+Pu_isotopes_sectioned_cores,2000-2001,9 sites,Pu-238 + Pu-239/240,,,kBq/m2 by depth,Depth-stratified cores; vertical distribution of Pu,Kashparov ESSD 2018
+Pu239_240_deposition_30km_zone,post-accident,multiple,Pu-239/240,3.7,,kBq/m2 (minimum reported for high-Pu zone),Areas with >3.7 kBq/m2 Pu-239/240 in 30km zone,Kashparov ESSD 2018
+Am241_ingrowth_at_30yr,2016 est.,multiple,Am-241,~40,,kBq/m2 (in areas where Pu-239/240 >3.7 kBq/m2),Am-241 is ingrowth product of Pu-241 decay (t1/2=14.4yr); increases over decades; 59 keV gamma measurable,Kashparov ESSD 2018
+Hot_particles_CEZ,1987-2000,1380 particles,Mixed fuel particles (UO2 dominant),,,per particle activity (varied),Extracted from CEZ soils mostly inner 10km zone; physical + radiological characterization,Kashparov ESSD 2018
+Hot_particles_Poland,September 1986,206 particles,Fuel particles,,,per particle activity,From northeast Poland and Warsaw area; far-field fuel particle transport,Kashparov ESSD 2018 (Dabrowska 1987 data)
+Hot_particles_shelter_sarcophagus,1992,294 particles,Fuel particles,,,per particle activity,Collected from inside sarcophagus/shelter structure,Kashparov ESSD 2018
+Fuel_dissolution_study,1995-1997,115 soil samples,Undissolved fuel particles (UO2),,,fraction remaining,Determines proportion of fuel particles not yet dissolved; relevant to Sr-90 and Pu mobility,Kashparov ESSD 2018
+Ivankov_district_dose_rates,2014,3389 sites,Gamma dose rate,0.1,0.24,µSv/h,~80 km south of ChNPP; immediately south of CEZ,Kashparov ESSD 2018
+Ivankov_district_soil_samples,2014,547 samples,90Sr + 137Cs + natural gamma emitters,,,kBq/m2 and Bq/kg,Co-located with dose rate measurements,Kashparov ESSD 2018
+Ivankov_max_Sr90_outside_CEZ,2014,1,Sr-90,96,96,kBq/m2,NE part of Ivankiv district; highest recorded outside CEZ,Kashparov ESSD 2018
+CEZ_geographic_area,1997-2014,N/A,Multiple,,,km2,Ukrainian portion: ~2598 km2; 36 km radius around ChNPP,Kashparov ESSD 2018
+GPS_accuracy,1997-2014,N/A,N/A,~100,~300,m,100m typical; up to 300m systematic deviation in early samples,Kashparov ESSD 2018
+dataset_doi,,,,,,,10.5285/782ec845-2135-4698-8881-b38823e533bf,EIDC
+essd_paper_doi,,,,,,,10.5194/essd-10-339-2018,Kashparov ESSD 2018
+license,,,,,,,Open Government Licence,EIDC

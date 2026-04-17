@@ -1,0 +1,24 @@
+parameter,location,year_or_period,value_low,value_high,value_typical,units,context,source
+Sr90_groundwater_10km_zone,10-km zone CEZ,2019,100,100000,,Bq/m3,Range across 87 monitoring wells; pre-accident background was 1-10 Bq/m3,Bugai et al. 2022 Scientific Reports
+Sr90_WHO_drinking_water_standard,WHO reference,standard,,,10000,Bq/m3,Drinking water standard; 16 of 87 wells exceeded this in 2019,WHO; Bugai et al. 2022
+Sr90_wells_exceeding_WHO,10-km zone CEZ,2019,16,16,,count of 87 wells,19% of monitored wells exceeded WHO DWS for Sr-90 in 2019,Bugai et al. 2022
+Sr90_peak_well,Well 1/1 Stroybaza waste dump,2019,,,230000,Bq/m3,"2.3e5 Bq/m3; worst single well; at radioactive waste dump site",Bugai et al. 2022
+Sr90_preaccident_background,Reference,pre-1986,1,10,,Bq/m3,Natural background before accident,Bugai et al. 2022
+Sr90_Pripyat_River_recent,Pripyat River,2010-2021,,,180,Bq/m3,Maximum yearly-averaged recent decade; >90% of Kiev reservoir input via Pripyat and Dnieper Rivers,Bugai et al. 2022
+Sr90_Pripyat_flood_1988,Pripyat River,1988,,,9600,Bq/L,Peak during autumn 1988 flooding; units confirmed Bq/L (= 1e6 Bq/m3),Historical data via OECD-NEA
+Sr90_Pripyat_flood_1991,Pripyat River,January 1991,,,12200,Bq/L,Elevated during high flood year; units Bq/L,Historical data via OECD-NEA
+Cs137_groundwater_10km_zone,10-km zone CEZ,2019,10,100,,Bq/m3,Below WHO DWS of 10000 Bq/m3 for Cs-137,Bugai et al. 2022
+Cs137_sarcophagus_zone,Sarcophagus groundwater,2015,300,72000,,Bq/m3,"Range near sarcophagus/shelter; upper end very high locally",Bugai et al. 2022
+Cs137_Pripyat_River_recent,Pripyat River,2010-2021,,,76,Bq/m3,Maximum recent decade; well below WHO DWS,Bugai et al. 2022
+Pu_Am_groundwater,10-km zone,2018-2019,0.1,1,,Bq/m3,Actinides (Pu isotopes + Am-241); much lower than WHO limit of 1000 Bq/m3,Bugai et al. 2022
+Eocene_confined_aquifer,Eocene aquifer (deep),1999-2019,1,10,,Bq/m3,Both Cs-137 and Sr-90 near detection limits in deep confined aquifer,Bugai et al. 2022
+CEZ_soil_inventory_Cs137,CEZ total,2015 (decay-corrected),,,2e15,Bq,Total Cs-137 remaining in CEZ soils; 2 quadrillion Bq = 2000 PBq,Bugai et al. 2022
+CEZ_soil_inventory_Sr90,CEZ total,2015 (decay-corrected),,,5.4e14,Bq,Total Sr-90 in CEZ soils; 540 PBq,Bugai et al. 2022
+Sarcophagus_Cs137_inventory,Sarcophagus zone soil,2015 (decay-corrected),,,1.2e15,Bq,1200 PBq Cs-137 in immediate reactor ruins area,Bugai et al. 2022
+Sarcophagus_Sr90_inventory,Sarcophagus zone soil,2015 (decay-corrected),,,1.2e15,Bq,1200 PBq Sr-90; equal to Cs-137 here because fuel material dominant,Bugai et al. 2022
+Waste_dump_Cs137,Radioactive waste dumps,2015 (decay-corrected),,,1.6e14,Bq,160 PBq,Bugai et al. 2022
+Cooling_pond_sediments_Cs137,Cooling pond,2015 (decay-corrected),,,1.2e14,Bq,120 PBq; pond was drained 2015-2023 period,Bugai et al. 2022
+Cs137_vertical_profile,CEZ soils,2020,>90%,,,percent in 0-20cm,>90% of Cs-137 inventory still in upper 20cm; limited vertical migration,Bugai et al. 2022
+Sr90_vertical_profile,CEZ soils,2020,similar to Cs,,,,percent in 0-40cm; secondary peaks at 40-50cm at some sites,Bugai et al. 2022
+Dose_self_settlers_drinking_water,Self-settlers in CEZ,2019,,,"<0.1",mSv/yr,Via drinking water pathway; >10x below 1 mSv/yr lower reference level,Bugai et al. 2022
+Monitoring_start,CEZ groundwater network,1986,,,,,,Program began immediately after accident; 35-year continuous dataset,Bugai et al. 2022

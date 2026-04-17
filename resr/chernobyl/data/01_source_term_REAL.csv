@@ -1,0 +1,24 @@
+nuclide,half_life,half_life_units,core_inventory_PBq,released_PBq,release_fraction_pct,biological_significance,physical_note,source
+Xe-133,5.3,days,6500,6500,100,Inert gas; negligible direct dose,Complete release; noble gas does not deposit,OECD-NEA Ch.II Table 1
+Kr-85,10.76,years,33,33,~100,Inert gas; low direct dose,Near-complete release,OECD-NEA Ch.II
+I-131,8.0,days,3200,1760,55 (range 50-60),Thyroid dose driver; concentrates in milk and thyroid tissue,Primary early health hazard; volatile; mean thyroid dose to Gomel children 0-7yr = 0.9-1 Gy,OECD-NEA Ch.II Table 1
+I-133,20.8,hours,high,high,~55,Short-lived thyroid irradiator; deposited close to source,Mostly decayed before reaching Western Europe,OECD-NEA Ch.II
+Te-132,78.0,hours,2700,1150,43 (range 25-60),Parent of I-132; co-released with iodine isotopes,Short-lived; volatile,OECD-NEA Ch.II Table 1
+Cs-137,30.0,years,280,85,30 (range 20-40),Long-term environmental contaminant; mimics potassium in biology,Primary long-term marker; 662 keV gamma from Ba-137m daughter; 80 PBq deposited across Europe,OECD-NEA Ch.II Table 1
+Cs-134,2.0,years,180,54,30 (range 20-40),Same biological behavior as Cs-137; shorter-lived,Cs-134/Cs-137 activity ratio at release = 0.57±0.07; used for temporal source attribution,OECD-NEA Ch.II Table 1; Kashparov 2020
+Ba-140,12.8,days,4800,240,5,Short-lived; deposited near source,Decayed within months,OECD-NEA Ch.II Table 1
+Zr-95,64.0,days,5600,196,3.5,Fuel particle tracer; near-zone deposition marker,Decayed within ~2 years; measured in 1987 60km survey,OECD-NEA Ch.II Table 1
+Mo-99,67.0,hours,4800,168,>3.5,Short-lived,Decayed rapidly,OECD-NEA Ch.II Table 1
+Ru-103,39.6,days,4800,168,>3.5,Near-zone deposition,Decayed within ~1 year,OECD-NEA Ch.II Table 1
+Ru-106,1.0,years,2100,73,>3.5,Detectable across Europe; moderate half-life,Detected at European stations; decayed within ~5 years,OECD-NEA Ch.II Table 1
+Ce-141,33.0,days,5600,196,3.5,Fuel particle marker; short-lived,Near-zone,OECD-NEA Ch.II Table 1
+Ce-144,285.0,days,3300,116,3.5,Fuel particle marker; Ce-144/Zr-95 ratio = 0.73±0.05,Key ratio for fuel particle identification in soil surveys,OECD-NEA Ch.II Table 1; Kashparov 2020
+Np-239,2.4,days,27000,95,3.5,Short-lived; decays to Pu-239,Transient; primarily irradiated uranium daughters,OECD-NEA Ch.II Table 1
+Sr-89,52.0,days,2300,115,5,Bone-seeker; moderate half-life,Near-zone deposition dominant; decayed within ~1 year,OECD-NEA Ch.II Table 1
+Sr-90,28.0,years,200,10,5,Bone-seeker; pure beta emitter; long-lived,Primary long-term groundwater contamination risk; high mobility in soil; 16/87 CEZ monitoring wells exceed WHO limit in 2019,OECD-NEA Ch.II Table 1; Bugai 2022
+Pu-238,86.0,years,1,0.035,3.5,Alpha emitter; inhalation hazard via fuel particles; long-lived,Heavy; local deposition; fuel particle dataset; 7.8 GBq released in 2015 fires,OECD-NEA Ch.II Table 1; Evangeliou 2016
+Pu-239,24400.0,years,0.85,0.030,3.5,Alpha emitter; long-lived; ingestion/inhalation hazard,Local deposition; >3.7 kBq/m2 in 30km zone; Am-241 ingrowth ~40 kBq/m2 by 30 years,OECD-NEA Ch.II Table 1; Kashparov 2018
+Pu-240,6580.0,years,1.2,0.042,3.5,Alpha emitter; co-deposited with Pu-239,Kashparov 2018 hot particle dataset; 9.4 GBq in 2015 fires,OECD-NEA Ch.II Table 1; Kashparov 2018
+Pu-241,13.2,years,170,6.0,3.5,Beta emitter; parent of Am-241; relatively mobile,Am-241 ingrowth product increasing over decades; measured in groundwater,OECD-NEA Ch.II Table 1; Bugai 2022
+Cm-242,163.0,days,26,0.9,3.5,Alpha emitter; short-lived,Decayed within ~3 years,OECD-NEA Ch.II Table 1
+total_excl_noble_gases,,,~14000 PBq,~3400 PBq,,,"OECD-NEA total released ~14 EBq including noble gases; ~6 EBq excluding. Note: 14 EBq figure is total core radioactivity; non-noble gas release was ~3400 PBq",OECD-NEA Ch.II; WNA

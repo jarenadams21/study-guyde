@@ -1,0 +1,24 @@
+nuclide,zone_lower_kBq_m2,zone_upper_kBq_m2,area_km2,countries,year_of_estimate,measurement_basis,description,source
+Cs-137,37,,125000,Belarus+Ukraine+Russia,1991,Aerial_survey_ground_truth,Total area with Cs-137 deposition >37 kBq/m2 (=1 Ci/km2); primary reference zone,UNSCEAR 2008; JRC Atlas 1998
+Cs-137,40,200,103000,Belarus+Ukraine+Russia,1991,Aerial_survey,Cs-137 40-200 kBq/m2; moderate contamination; restricted use agricultural,WHO 2006; JRC Atlas 1998
+Cs-137,200,600,11000,Belarus+Ukraine+Russia,1991,Aerial_survey,Cs-137 200-600 kBq/m2; high contamination; agricultural restrictions,JRC Atlas 1998; UNSCEAR 2008
+Cs-137,600,1500,7200,Belarus+Ukraine+Russia,1991,Aerial_survey,Cs-137 600-1500 kBq/m2; very high contamination; evacuation zone for many residents,WHO 2006; JRC Atlas 1998
+Cs-137,1500,,3100,Belarus+Ukraine+Russia,1991,Aerial_survey,Cs-137 >1500 kBq/m2 (>40 Ci/km2); extreme contamination; permanent exclusion,WHO 2006; JRC Atlas 1998
+Cs-137,37,,46500,Belarus,1991,Aerial_survey,Belarus total Cs-137 >37 kBq/m2; 22.5% of national territory,UNSCEAR 2008; Chernobyl Forum 2005
+Cs-137,555,,10200,Belarus,1991,Aerial_survey,Belarus Cs-137 >555 kBq/m2 (>15 Ci/km2); strict control zone; 4.9% of territory,Chernobyl Forum 2005
+Cs-137,37,,37200,Ukraine,1991,Aerial_survey,Ukraine total Cs-137 >37 kBq/m2; includes 30km exclusion zone,UNSCEAR 2008; Chernobyl Forum 2005
+Cs-137,37,,56000,Russia_4_oblasts,1991,Aerial_survey,Russia 4 oblasts (Bryansk Tula Orel Kaluga) Cs-137 >37 kBq/m2,UNSCEAR 2008; Chernobyl Forum 2005
+Sr-90,10,,30000,Belarus+Ukraine+Russia,1991,Aerial_survey,Total area Sr-90 >10 kBq/m2; primarily Belarus/Ukraine; bone-seeker risk zone,UNSCEAR 2008; Chernobyl Forum 2005
+Sr-90,10,40,21000,Belarus+Ukraine+Russia,1991,Aerial_survey,Sr-90 10-40 kBq/m2 (moderate); dietary exposure pathway via root uptake,UNSCEAR 2008
+Sr-90,40,,9000,Belarus+Ukraine+Russia,1991,Aerial_survey,Sr-90 >40 kBq/m2 (high); concentrated within 100km of plant; groundwater contamination risk,UNSCEAR 2008; Bugai 2022
+Sr-90,2000,20000,75,Ukraine_CEZ_only,1997,Ground_survey,CEZ inner zone Sr-90 2000-20000 kBq/m2; ~4% of 30km zone; hotspot areas near reactor,WHO 2006; Bugai 2022
+Sr-90,200,2000,380,Ukraine_CEZ_only,1997,Ground_survey,CEZ Sr-90 200-2000 kBq/m2; ~19% of 30km zone; elevated groundwater risk,WHO 2006; Bugai 2022
+Sr-90,0,200,1540,Ukraine_CEZ_only,1997,Ground_survey,CEZ Sr-90 <200 kBq/m2; ~77% of 30km zone; lower contamination peripheral areas,WHO 2006; Bugai 2022
+Pu-239+240,3.7,,7700,Belarus+Ukraine+Russia,1991,Aerial_survey,Total area Pu-239+240 >3.7 kBq/m2 (>0.1 Ci/km2); fuel particle deposition zone,UNSCEAR 2008; Kashparov 2018
+Pu-239+240,37,,800,Ukraine_CEZ_only,1991,Aerial_survey,Pu-239+240 >37 kBq/m2 (>1 Ci/km2); alpha inhalation risk zone; primarily within 30km,UNSCEAR 2008; Kashparov 2018
+Cs-137,4,40,600000,Western_Europe,1991,Airborne_survey_and_ground,Western Europe Cs-137 4-40 kBq/m2; 14 countries; no mandatory restrictions except selected areas,JRC Atlas 1998; OECD-NEA Ch.II
+Cs-137,5000,,200,Russia_Bryansk,1991,Ground_survey,Bryansk oblast hotspot: up to 5000 kBq/m2; highest contamination outside 30km zone; due to rainfall scavenging May 1986,OECD-NEA Ch.II; JRC Atlas 1998; European deposition data
+I-131_deposition,100,,125000,Belarus+Ukraine+Russia,1986,Retrospective_reconstruction,I-131 high deposition zone >100 kBq/m2; primary thyroid cancer risk area; exposure in first 6 weeks May-June 1986,UNSCEAR 2008 Table B5; Likhtarev 1994
+Cs-137,37,,36000,Belarus+Ukraine+Russia,2026,Decay_corrected_from_1991,Estimated 2026 area Cs-137 still >37 kBq/m2 after 40yr decay (t1/2=30.17yr; ~60% original activity remaining); practical boundary shifting,Decay calculation from JRC Atlas 1998 baseline + t1/2=30.17yr
+Cs-137,185,,54900,Ukraine,1996,National_zoning,"Ukraine agricultural exclusion zone >185 kBq/m2; 54,900 ha prohibited for cultivation",OECD-NEA Ch.VI; UNSCEAR 2008
+Cs-137,37,185,1100000,Ukraine,1996,National_zoning,Ukraine agricultural restricted use zone 37-185 kBq/m2; 1.1 million ha with monitoring requirements,OECD-NEA Ch.VI; UNSCEAR 2008

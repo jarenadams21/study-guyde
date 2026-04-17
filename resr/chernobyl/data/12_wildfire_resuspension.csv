@@ -1,0 +1,14 @@
+event,date,area_burned_ha,isotope,activity_released,units,atmospheric_halflife_days,deposition_destination_pct,notes,source
+2015_Spring_fire,April-May 2015,9241,Cs-137,10.9,TBq,3.2-4.7,93% Eastern Europe (labile fraction),Labile fraction = volatile/exchangeable Cs; refractory = particle-bound,Evangeliou et al. 2016 Scientific Reports
+2015_Spring_fire,April-May 2015,9241,Sr-90,1.5,TBq,3.2-4.7,93% Eastern Europe (labile fraction),,Evangeliou et al. 2016 Scientific Reports
+2015_Spring_fire,April-May 2015,9241,Pu-238,7.8,GBq,2.5-3.3,97% Eastern Europe (refractory fraction),Refractory particles have shorter atmospheric lifetime,Evangeliou et al. 2016 Scientific Reports
+2015_Spring_fire,April-May 2015,9241,Pu-239,6.3,GBq,2.5-3.3,97% Eastern Europe (refractory fraction),,Evangeliou et al. 2016 Scientific Reports
+2015_Spring_fire,April-May 2015,9241,Pu-240,9.4,GBq,2.5-3.3,97% Eastern Europe (refractory fraction),,Evangeliou et al. 2016 Scientific Reports
+2015_Spring_fire,April-May 2015,9241,Am-241,29.7,GBq,2.5-3.3,97% Eastern Europe (refractory fraction),Am-241 is ingrowth product; highest released transuranic by activity,Evangeliou et al. 2016 Scientific Reports
+2015_Summer_fire,August 2015,5867,Cs-137,fraction of spring total,TBq,3.2-4.7,75% Eastern Europe (labile fraction),Lower transport to Western Europe in summer fire,Evangeliou et al. 2016 Scientific Reports
+2015_Summer_fire,August 2015,5867,Sr-90,fraction of spring total,TBq,3.2-4.7,75% Eastern Europe (labile fraction),,Evangeliou et al. 2016 Scientific Reports
+2015_Summer_fire,August 2015,5867,Pu isotopes + Am-241,fraction of spring total,GBq,2.5-3.3,59% Eastern Europe (refractory fraction),,Evangeliou et al. 2016 Scientific Reports
+2020_fire,April 2020,~11700,Cs-137 + others,modeled,TBq,,Eastern Europe primarily,Atmospheric transport modeled with FLEXPART; occurred during COVID-19 lockdowns,ScienceDirect 2021 (Simulation study)
+modeling_method,all events,N/A,N/A,N/A,N/A,N/A,N/A,FLEXPART Lagrangian particle dispersion model used for atmospheric transport in both 2015 and 2020 fire analyses,Evangeliou et al. 2016; ScienceDirect 2021
+fire_context,CEZ forests,ongoing risk,N/A,N/A,N/A,N/A,N/A,CEZ forests contain ~95 PBq Cs-137 and ~31 PBq Sr-90 in vegetation + soil litter; wildfire is primary ongoing secondary release pathway,Multiple sources
+historical_fire_experiments,CEZ,2005,Cs-137,measured per plot,Bq/m2 mobilized,N/A,N/A,Grassland and forest fire experiments in CEZ (Kashparov / Semioshkina 2005) quantified resuspension factors,STUK / PubMed 2006

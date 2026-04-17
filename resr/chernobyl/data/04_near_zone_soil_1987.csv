@@ -1,0 +1,26 @@
+parameter,value,unit,notes,source
+survey_year,1987,,April-May 1987; ~1 year after accident,Kashparov et al. ESSD 2020
+organization,USSR State Hydrometeorological Committee + Defence Ministry Scientific Centre,,Soviet government survey,Kashparov et al. ESSD 2020
+sampling_design,Polar coordinate grid,,36 rays at 10 degree intervals; 15 distances per ray,Kashparov et al. ESSD 2020
+distances_from_ChNPP_km,"5,6,7,8.3,10,12,14.7,17,20,25,30,37.5,45,52.5,60",km,15 radial distances,Kashparov et al. ESSD 2020
+total_planned_sites,540,count,,Kashparov et al. ESSD 2020
+successful_samples,489,count,51 excluded (swamps/water bodies),Kashparov et al. ESSD 2020
+sample_depth,0-5,cm,Soil corer 14cm diameter; 5 cores per location using envelope method,Kashparov et al. ESSD 2020
+dose_rate_measurement,1m above ground,,,Kashparov et al. ESSD 2020
+gamma_detector,High-purity germanium GEM-30185,,Gamma spectrometry,Kashparov et al. ESSD 2020
+location_accuracy,±10,m,,Kashparov et al. ESSD 2020
+isotopes_measured,"Zr-95, Nb-95, Ru-106, Cs-134, Cs-137, Ce-144",,All gamma emitters; plus exchangeable Cs-134 and Cs-137 via 1M NH4Ac extraction,Kashparov et al. ESSD 2020
+dataset_columns,21,,Including coordinates; dose rate; deposition densities with uncertainties; exchangeable Cs,Kashparov et al. ESSD 2020
+Cs134_Cs137_ratio,0.57 ± 0.07,,Decay-corrected to May 6 1986; R-squared = 0.99; very strong correlation; source fingerprint,Kashparov et al. ESSD 2020
+Ce144_Zr95_ratio,0.73 ± 0.05,,R-squared = 0.98; excellent correlation; marks fuel particle deposition,Kashparov et al. ESSD 2020
+Ce144_Ru106_ratio,3.9 ± 0.4,,R-squared = 0.93,Kashparov et al. ESSD 2020
+Ce144_Cs137_ratio_high_contamination,9.1,,Weak overall correlation (R-squared = 0.41); higher closer to source,Kashparov et al. ESSD 2020
+Ce144_fallout_decrease_5to30km,7-9x,factor,Exponential decline; fuel particle component dominant at short range,Kashparov et al. ESSD 2020
+Ce144_fallout_decrease_5to60km,70-120x,factor,Consistent with fuel particle (heavy fragment) deposition physics,Kashparov et al. ESSD 2020
+Cs137_southern_trace,Exponential decline similar to Ce144,,Condensation component + fuel component,Kashparov et al. ESSD 2020
+Cs137_western_trace,Less steep decline,,Condensation component dominant (volatile Cs travels further),Kashparov et al. ESSD 2020
+evacuation_dose_threshold,~50,µSv/h (~5 mR/h),Threshold used for evacuation decisions; measured dose rate 1m above ground on May 10 1986,Kashparov et al. ESSD 2020
+area_exceeding_threshold_May10,Extensive,,Included northern zone primarily by August 1986,Kashparov et al. ESSD 2020
+dataset_doi,10.5194/essd-12-1861-2020,,ESSD 2020,Kashparov et al. ESSD 2020
+eidc_doi,10.5285/a408ac9d-763e-4f4c-ba72-73bc2d1f596d,,NERC Environmental Information Data Centre,EIDC
+license,Open Government Licence,,Freely downloadable,EIDC

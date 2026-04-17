@@ -1,0 +1,38 @@
+category,subcategory,variable,value,units,ci_low,ci_high,notes,source
+cohort_description,UkrAm_cohort,cohort_size_n,13204,persons,,,Ukrainian-American Thyroid Cohort; resident of Zhitomir Chernigov Kiev oblasts; ages 0-18 at accident Apr 26 1986,DCEG/NCI; EHP 0800184
+cohort_description,BelAm_cohort,cohort_size_n,11732,persons,,,Belarusian-American Thyroid Cohort; Gomel/Mogilev oblasts; ages 0-18 at accident,DCEG/NCI; Frontiers Endo 2020
+cohort_description,in_utero_exposed,cohort_size_n,1494,persons,,,In utero exposed subcohort (Ukrainian); mother pregnant at time of accident,DCEG/NCI; EHP 0800184
+cohort_description,in_utero_unexposed,cohort_size_n,1088,persons,,,In utero unexposed comparison cohort (Ukrainian),DCEG/NCI
+screening,UkrAm_cycle_1,thyroid_cancer_cases_prevalent,45,cases,,,1st screening cycle ~1998-2000; prevalent cancers diagnosed at baseline; 13204 participants screened,DCEG/NCI; Likhtarev 2006 EHP
+screening,UkrAm_cycles_2_4,thyroid_cancer_cases_incident,65,cases,,,2nd-4th screening cycles 2001-2008; incident cancers; follow-up of same cohort,DCEG/NCI; Tronko 2006; Bogdanova 2015
+screening,UkrAm_total_5_cycles,thyroid_cancer_cases_total,110,cases,,,Total operated thyroid cancer cases through 4+ screening cycles 1998-2015,DCEG/NCI
+thyroid_dose,UkrAm_cohort,dose_mean_Gy,0.65,Gy,,,UkrAm cohort mean thyroid I-131 dose; individual range 0-42 Gy; >66% received <0.5 Gy,Frontiers Endo 2020; DCEG/NCI
+thyroid_dose,UkrAm_cohort,dose_median_Gy,0.19,Gy,,,UkrAm cohort median thyroid I-131 dose,Frontiers Endo 2020
+thyroid_dose,UkrAm_cohort,dose_max_Gy,42.0,Gy,,,Maximum individual thyroid dose in UkrAm cohort,Frontiers Endo 2020
+thyroid_dose,BelAm_cohort,dose_mean_Gy,0.68,Gy,,,BelAm cohort mean thyroid I-131 dose; Gomel/Mogilev oblasts most contaminated; individual range 0-39 Gy,Frontiers Endo 2020
+thyroid_dose,BelAm_cohort,dose_median_Gy,0.27,Gy,,,BelAm cohort median thyroid dose; higher than UkrAm due to proximity,Frontiers Endo 2020
+thyroid_dose,BelAm_cohort,dose_max_Gy,39.0,Gy,,,Maximum individual thyroid dose in BelAm cohort,Frontiers Endo 2020
+thyroid_dose,in_utero_Belarus,dose_mean_Gy,0.12,Gy,,,Belarusian in utero cohort mean thyroid dose; range 0-15 Gy; median 0.014 Gy,Frontiers Endo 2020
+thyroid_dose,in_utero_Ukraine,dose_mean_Gy,0.072,Gy,,,Ukrainian in utero cohort mean thyroid dose; range 0-3.2 Gy; median 0.012 Gy,Frontiers Endo 2020
+thyroid_dose,measurement_uncertainty,geometric_SD_direct_measurements,1.6,dimensionless,,,GSD for directly measured thyroid doses (in-vivo measurement teams); lower uncertainty,Frontiers Endo 2020
+thyroid_dose,measurement_uncertainty,geometric_SD_modeled_doses,2.6,dimensionless,,,GSD for modeled/reconstructed thyroid doses; higher uncertainty,Frontiers Endo 2020
+risk_coefficient,UkrAm_prevalent_1st_cycle,EOR_per_Gy,5.25,per_Gy,1.7,27.5,Excess odds ratio per Gy; prevalent thyroid cancers (1st screening cycle); elevated due to initial screening effect; age at exposure 0-18yr,Likhtarev 2006; DCEG/NCI
+risk_coefficient,UkrAm_incident_cycles_2_4,ERR_per_Gy,1.91,per_Gy,0.43,6.34,Excess relative risk per Gy; incident thyroid cancers 2nd-4th screening cycles 2001-2008; 20yr post-exposure; more stable estimate than 1st round,Tronko 2006; Bogdanova 2015; DCEG/NCI
+risk_coefficient,UkrAm_incident_cycles_2_4,EAR_per_10000_pyr_per_Gy,2.21,per_10000_person-years_per_Gy,0.04,5.78,Excess absolute rate per 10000 person-years per Gy; incident cancers; alternative additive model parameterization,DCEG/NCI
+risk_coefficient,combined_screening_cohort,EOR_per_Gy,3.16,per_Gy,1.49,6.95,Combined estimate from UNSCEAR 2017 White Paper; all screening data 1991-2015; preferred overall estimate,UNSCEAR 2017 White Paper Annex D11
+risk_coefficient,hypothyroidism_endpoint,EOR_per_Gy,0.1,per_Gy,0.03,0.21,Hypothyroidism associated with I-131 thyroid exposure; secondary health outcome in cohort,DCEG/NCI; Eastman 2013
+liquidator_thyroid,male_cleanup_workers,SIR_thyroid_1986_2012,3.35,standardized_incidence_ratio,2.91,3.8,SIR for thyroid cancer in 150813 male liquidators 1986-2012; observed 216 cases expected 64.4; 3.3x general population,PMC6770927
+liquidator_thyroid,first_mission_1986_workers,SIR_thyroid_1986_2012,3.65,standardized_incidence_ratio,3.07,4.24,SIR for thyroid cancer in workers on first mission in 1986 specifically; higher SIR due to higher I-131 inhalation dose,PMC6770927
+liquidator_thyroid,male_cleanup_workers,observed_cases,216,cases,,,Observed thyroid cancer cases 1986-2012 in 150813 workers; 216 vs 64.4 expected,PMC6770927
+liquidator_thyroid,male_cleanup_workers,expected_cases,64.4,cases,,,Expected thyroid cancer cases based on general Ukrainian male population rates,PMC6770927
+liquidator_thyroid,male_cleanup_workers,ERR_per_Gy_method_1,2.38,per_Gy,0.6,4.15,ERR/Gy thyroid cancer in liquidators; I-131 inhalation doses,PMC6770927
+liquidator_thyroid,male_cleanup_workers,ERR_per_Gy_method_2,2.66,per_Gy,0.68,4.64,ERR/Gy alternative dose assignment method; consistent with method 1,PMC6770927
+ARS_survivor_cancer,ARS_survivor_cohort,cohort_n_total,190,persons,,,ARS and suspected-ARS follow-up cohort: 91 confirmed ARS + 99 non-confirmed ARS; dose range 0.1-7.1 Gy (ARS) 0.1-1.0 Gy (non-ARS),PMC6770927; UNSCEAR 2008
+ARS_survivor_cancer,ARS_survivor_cohort,total_deaths,57,deaths,,,Total deaths in ARS survivor follow-up cohort through ~2012,PMC6770927
+ARS_survivor_cancer,ARS_survivor_cohort,cancer_blood_malignancy_deaths,32,deaths,,,Deaths from cancer or blood malignancies; 32 of 57 total deaths = 56%; elevated fraction vs general population,PMC6770927
+other_malignancies,female_workers,breast_cancer_SIR,156.7,SIR_per_100k,140.3,173.1,Breast cancer SIR in female cleanup workers 1994-2014; highly elevated; n=152520 female workers; confounded by screening,PMC6770927
+other_malignancies,all_workers,multiple_myeloma_SIR,1.38,standardized_incidence_ratio,1.06,1.71,Multiple myeloma SIR; borderline elevated; n=152520 workers,PMC6770927
+exposure_pathway,thyroid_dose_fraction,fraction_from_radioiodine,0.9,fraction_0_to_1,,,>90% of total thyroid dose from radioiodine intake (predominantly I-131 via milk and leafy vegetables); <10% from external gamma and direct fallout,UNSCEAR 2008; Frontiers Endo 2020
+exposure_pathway,measurement_coverage,direct_thyroid_measurements_total,400000,measurements,,,"~400,000 direct in-vivo thyroid I-131 measurements conducted Apr 26-Jun 30 1986 in Soviet territories; key for dose reconstruction",UNSCEAR 2008 Annex D p.29
+exposure_pathway,measurement_coverage,Belarus_cohort_direct_measured_pct,10,percent_of_cohort,,,~10% of BelAm cohort underwent direct in-vivo thyroid measurement May-June 1986,Frontiers Endo 2020
+exposure_pathway,measurement_coverage,Ukraine_cohort_direct_measured_pct,28,percent_of_cohort,,,~28% of UkrAm cohort underwent direct in-vivo thyroid measurement; higher coverage in Ukraine,Frontiers Endo 2020

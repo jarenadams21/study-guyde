@@ -1,0 +1,25 @@
+parameter,chernobyl_1986,fukushima_2011,ratio_chernobyl_per_fukushima,units,notes,source
+accident_date,1986-04-26,2011-03-11,,date,Chernobyl: RBMK graphite fire + prompt criticality. Fukushima: 3 reactor meltdowns (BWR/GE Mark I) triggered by Tohoku earthquake + tsunami,Historical record
+reactor_type,RBMK-1000,BWR_Mark_I_x3,,type,"RBMK: water-cooled graphite-moderated; positive void coefficient. Fukushima Daiichi: GE Boiling Water Reactors; containment damaged by hydrogen explosions",IAEA
+INES_level,7,7,,scale_1-7,Both are INES Level 7 (maximum); however Chernobyl source term ~10x larger,IAEA INES
+total_source_term_PBq,5300,520,~10x,PBq_excl_noble_gases,Chernobyl total 5300 PBq; Fukushima 520 (range 340-800) PBq; both excluding noble gases (Xe Kr),WNA; multiple source assessments
+I131_released_PBq,1760,500,3.5x,PBq,Chernobyl: 1760 PBq I-131; Fukushima: ~500 PBq I-131 (some estimates 511 PBq including ocean),WNA; UNSCEAR 2013
+Cs137_released_PBq,85,13.6,6.3x,PBq,Chernobyl: 85±26 PBq; Fukushima: 13.6 PBq atmospheric; ~3.5 PBq directly to ocean,WNA; UNSCEAR 2013; PNAS 2017
+Cs134_released_PBq,54,13.5,4x,PBq,Chernobyl: 54 PBq; Fukushima: 13.5 PBq Cs-134,WNA; UNSCEAR 2013
+Cs134_Cs137_ratio,0.57,~1.0,,ratio,"Chernobyl decay-corrected ratio 0.57 (reflects burn-up history); Fukushima ratio ~1.0 at release (shorter operating history); ratio = temporal fingerprint",OECD-NEA Ch.II; UNSCEAR 2013
+Sr90_released_PBq,10,0.14,71x,PBq,Chernobyl: ~10 PBq Sr-90; Fukushima: ~0.14 PBq (much less released to atmosphere; some to ocean),UNSCEAR 2008; UNSCEAR 2013
+Pu_released_kg,>30,negligible,,kg,"Chernobyl released >30 kg of Pu isotopes as fuel particles; Fukushima negligible atmospheric Pu release",UNSCEAR 2008; WNA
+Te132_released_PBq,1150,,,PBq,Chernobyl only; no equivalent Fukushima figure; Te-132 t1/2=3.2 days,OECD-NEA Ch.II
+noble_gases_PBq,6500+,4600+,,PBq,"Chernobyl: ~6500 PBq Xe-133 (100% of core); Fukushima: >4600 PBq noble gases released",OECD-NEA Ch.II; UNSCEAR 2013
+contaminated_area_km2,~200000,3000,67x,km2,"Chernobyl: ~200000 km2 >37 kBq/m2; Fukushima: ~3000 km2 >37 kBq/m2; major difference due to graphite fire open-air burning vs contained reactor vessel",WNA; UNSCEAR 2013
+evacuation_persons,350000,154000,2.3x,persons,"Chernobyl: ~350000 total evacuated/relocated; Fukushima: ~154000 evacuated in 2011",UNSCEAR 2008; UNSCEAR 2013
+Cs137_max_deposition,>1500_kBq_m2_inner_30km,>1500_kBq_m2_hotspots,,kBq_per_m2,"Both have hotspots >1500 kBq/m2; Chernobyl inner 30km zone ~3100 km2 above this level; Fukushima only a few km2",OECD-NEA; UNSCEAR 2013
+ARS_deaths,28_confirmed_ARS_deaths,0,,persons,"Chernobyl: 28 confirmed ARS deaths in 1986; Fukushima: 0 ARS deaths; reactor workers received low doses despite grave accident",WHO; UNSCEAR 2013
+thyroid_cancer_children,>6000_by_2005_confirmed,incidence_slight_increase_monitoring,,cases,"Chernobyl: >6000 childhood thyroid cancers confirmed by 2005; Fukushima: possible minor increase in thyroid cancer detection but likely screening effect; 2021 UNSCEAR found no causal link",WHO; Chernobyl Forum; UNSCEAR 2020 Fukushima report
+direct_radiation_deaths,2_on_night_+_28_ARS_in_months,1_worker_cardiac_during_tsunami_response_nonradiation,,persons,"Chernobyl: 2 immediate deaths + 28 ARS; Fukushima: 0 radiation deaths; 1 worker cardiac arrest on cleanup (not radiation)",Historical record
+reactor_graphite_fire,yes_10_days_open_air,no_contained_meltdown,,boolean,"Key difference: RBMK graphite fire burned openly for 10 days at high temperature driving radionuclides to high altitude; BWR reactor vessel contained meltdown",Physics of accidents
+max_single_worker_dose,16_Gy,180_mGy,,units,"Chernobyl max confirmed ARS dose ~16 Gy; Fukushima max confirmed worker dose 180 mGy (non-lethal); vast difference in worker protection",UNSCEAR 2008; UNSCEAR 2013
+I131_equivalent_iSv,5200_PBq_Ie,770_PBq_Ie,6.7x,PBq_iodine_131_equivalent,"Iodine-131 equivalent accounting for Cs-137 longevity (multiply Cs-137 by 40): Chernobyl ~5200 PBq-Ie; Fukushima ~770 PBq-Ie; ~6.7x ratio",WNA Fukushima dose paper
+Cs137_dose_external_comparison,higher_near_zone,much_lower,>10x,comparative,"External Cs-137 doses to humans from soil: PMC7220933 comparative study confirms Chernobyl exposure significantly higher in most metrics",PMC7220933
+RBMK_void_coefficient,positive,N/A_BWR_negative_or_stable,,physics,"RBMK positive void coefficient (steam bubbles increase reactivity) was root cause of Chernobyl runaway; modern BWR/PWR have negative void coefficients; RBMK design no longer built",RBMK physics; INSAG-7
+confinement_status,open_air_no_containment,damaged_containment_hydrogen_explosions,,design,"Chernobyl reactor building had no Western-style primary containment; explosion destroyed building completely; Fukushima had containment that was damaged but held most inventory",INSAG-7; IAEA Fukushima report

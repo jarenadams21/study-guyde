@@ -1,0 +1,28 @@
+radionuclide,habitat,n_plots,mean_Bq_kg_DM,SD_Bq_kg_DM,min_Bq_kg_DM,max_Bq_kg_DM,ambient_dose_rate_mean_uSv_h,ambient_dose_rate_min_uSv_h,ambient_dose_rate_max_uSv_h,measurement_year,notes,source
+Cs-137,Coniferous,9,5760,3510,2880,14000,0.609,0.500,0.650,2016,9 plots; sandy soils away from plume core; lowest contamination,Beresford et al. 2022 PLOS ONE doi:10.1371/journal.pone.0263600
+Cs-137,Deciduous,20,114000,130000,2840,422000,22.3,0.410,78.0,2016,20 plots; intermediate contamination; large variance,Beresford et al. 2022 PLOS ONE doi:10.1371/journal.pone.0263600
+Cs-137,Red Forest,24,412000,332000,29300,1030000,101,12.3,237,2016,24 plots; highest contamination; original Red Forest plume axis,Beresford et al. 2022 PLOS ONE doi:10.1371/journal.pone.0263600
+Sr-90,Coniferous,9,1830,683,900,2900,0.609,0.500,0.650,2016,Fuel particle deposition lower in coniferous zone,Beresford et al. 2022 PLOS ONE doi:10.1371/journal.pone.0263600
+Sr-90,Deciduous,20,90700,173000,520,783000,22.3,0.410,78.0,2016,Very high variance; proximity to fuel particles drives outliers,Beresford et al. 2022 PLOS ONE doi:10.1371/journal.pone.0263600
+Sr-90,Red Forest,24,168000,185000,11500,866000,101,12.3,237,2016,Red Forest: highest Sr-90 accumulation; fuel fragments abundant,Beresford et al. 2022 PLOS ONE doi:10.1371/journal.pone.0263600
+Am-241,Coniferous,9,96.4,26.9,54.0,126,0.609,0.500,0.650,2016,Am-241 ingrowth from Pu-241 (t1/2=14.4yr) increasing over time; will peak ~2060,Beresford et al. 2022 PLOS ONE doi:10.1371/journal.pone.0263600
+Am-241,Deciduous,20,5760,8580,63.0,36600,22.3,0.410,78.0,2016,Am-241 increasingly dominant gamma emitter at fuel-particle sites,Beresford et al. 2022 PLOS ONE doi:10.1371/journal.pone.0263600
+Am-241,Red Forest,24,12000,9730,1230,32400,101,12.3,237,2016,Red Forest Am-241 will continue rising through ~2060 even as other nuclides decay,Beresford et al. 2022 PLOS ONE doi:10.1371/journal.pone.0263600
+Pu-238,Coniferous,9,5.09,2.44,<3.66,11.4,0.609,0.500,0.650,2016,Pu-238 t1/2=87.7yr; relatively low in coniferous zone,Beresford et al. 2022 PLOS ONE doi:10.1371/journal.pone.0263600
+Pu-238,Deciduous,20,560,783,<2.00,2900,22.3,0.410,78.0,2016,,Beresford et al. 2022 PLOS ONE doi:10.1371/journal.pone.0263600
+Pu-238,Red Forest,24,1870,2240,92.0,9490,101,12.3,237,2016,Red Forest Pu-238 ~367x coniferous mean; fuel particles concentrated here,Beresford et al. 2022 PLOS ONE doi:10.1371/journal.pone.0263600
+Pu-239+240,Coniferous,9,9.57,4.59,<6.89,21.4,0.609,0.500,0.650,2016,Pu-239 t1/2=24110yr; Pu-240 t1/2=6561yr; both very long-lived,Beresford et al. 2022 PLOS ONE doi:10.1371/journal.pone.0263600
+Pu-239+240,Deciduous,20,1050,1470,<4.00,5450,22.3,0.410,78.0,2016,,Beresford et al. 2022 PLOS ONE doi:10.1371/journal.pone.0263600
+Pu-239+240,Red Forest,24,3520,4210,173,17900,101,12.3,237,2016,Pu-239+240 Red Forest mean 368x coniferous; decades-long contamination signature,Beresford et al. 2022 PLOS ONE doi:10.1371/journal.pone.0263600
+annelid_absorbed_dose,Coniferous,9,1.57,0.800,0.840,3.43,0.609,0.500,0.650,2016,Absorbed dose rate µGy/h to soil annelids; low-dose habitat,Beresford et al. 2022 PLOS ONE doi:10.1371/journal.pone.0263600
+annelid_absorbed_dose,Deciduous,20,40.7,50.0,0.700,184,22.3,0.410,78.0,2016,,Beresford et al. 2022 PLOS ONE doi:10.1371/journal.pone.0263600
+annelid_absorbed_dose,Red Forest,24,145,119,10.4,389,101,12.3,237,2016,Red Forest annelid dose 92x coniferous mean; well above ICRP environmental reference level,Beresford et al. 2022 PLOS ONE doi:10.1371/journal.pone.0263600
+soil_bacteria_absorbed_dose,Coniferous,9,4.28,1.27,2.51,6.56,0.609,0.500,0.650,2016,Absorbed dose rate µGy/h to soil bacteria,Beresford et al. 2022 PLOS ONE doi:10.1371/journal.pone.0263600
+soil_bacteria_absorbed_dose,Deciduous,20,216,330,2.10,1410,22.3,0.410,78.0,2016,,Beresford et al. 2022 PLOS ONE doi:10.1371/journal.pone.0263600
+soil_bacteria_absorbed_dose,Red Forest,24,603,528,49.0,1750,101,12.3,237,2016,Maximum 1750 µGy/h to soil bacteria; no statistically significant reduction in feeding activity,Beresford et al. 2022 PLOS ONE doi:10.1371/journal.pone.0263600
+soil_pH,Coniferous,9,3.87,0.10,3.74,4.05,,,,2016,Acidic sandy Polesie soils; strong Cs-137 bioavailability,Beresford et al. 2022 PLOS ONE doi:10.1371/journal.pone.0263600
+soil_pH,Deciduous,20,4.33,0.52,3.52,5.08,,,,2016,,Beresford et al. 2022 PLOS ONE doi:10.1371/journal.pone.0263600
+soil_pH,Red Forest,24,4.58,0.25,3.94,4.93,,,,2016,,Beresford et al. 2022 PLOS ONE doi:10.1371/journal.pone.0263600
+soil_bulk_density_g_cm3,Coniferous,9,0.78,0.13,0.57,0.92,,,,2016,Low bulk density in forested plots,Beresford et al. 2022 PLOS ONE doi:10.1371/journal.pone.0263600
+soil_bulk_density_g_cm3,Deciduous,20,0.86,0.30,0.39,1.38,,,,2016,,Beresford et al. 2022 PLOS ONE doi:10.1371/journal.pone.0263600
+soil_bulk_density_g_cm3,Red Forest,24,1.24,0.08,1.10,1.39,,,,2016,Higher density in Red Forest; burned/cleared zone in 1986,Beresford et al. 2022 PLOS ONE doi:10.1371/journal.pone.0263600

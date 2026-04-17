@@ -1,0 +1,25 @@
+year,country,age_group_at_accident,cases_this_year,cumulative_cases,incidence_per_million,notes,source
+1986,Belarus,children_under18,,3,,Pre-accident baseline ~0.5 per million per year; 1986 cases are pre-accident baseline or immediate post,UNSCEAR 2008; CNSC
+1987,Belarus,children_under18,,5,,,UNSCEAR 2008
+1988,Belarus,children_under18,,5,,,UNSCEAR 2008
+1989,Belarus,children_under18,,8,,,UNSCEAR 2008
+1990,Belarus,children_under18,31,,,"First year with clear excess; 31 new cases — ~4x pre-accident rate; 4-year latency",UNSCEAR 2008; search confirmed
+1991,Belarus,children_under18,66,,,Sharp increase continues,UNSCEAR 2008; search confirmed
+1992,Belarus,children_under18,72,,,Plateau near peak,UNSCEAR 2008; search confirmed
+1993,Belarus,children_under18,93,,"~40 per million girls; ~20 per million boys","Peak or near-peak year; Gomel crude incidence 9.4/100000; Brest 6.7/100000",UNSCEAR 2008; CNSC
+1994,Belarus,children_under18,96,,,Near-peak,UNSCEAR 2008; search confirmed
+1995,Belarus,children_under18,90,,,Beginning of modest decline,UNSCEAR 2008; search confirmed
+1991,Belarus+Russia_4oblasts,children_under18,,,5127 total 1991-2005,"5127 total cases 1991-2005 in this cohort (children <14 in 1986)",UNSCEAR 2008 Annex D
+1991_2015,Belarus,all_exposed_under18,,,5906 total,"5906 total Belarus 1991-2015; 4546 female / 1360 male",PMC11252555
+1991_2015,Russian Federation 4 oblasts,all_exposed_under18,,,1838 total,"1838 total; 1504 female / 334 male",PMC11252555
+1991_2015,Ukraine,all_exposed_under18,,,11489 total,"11489 total; 9393 female / 2096 male; largest single-country cohort",PMC11252555
+1991_2015,All three countries,all_exposed_under18,,,19233 total,"19233 total; 15443 female / 3790 male",PMC11252555
+pre_accident,Belarus,children,0.5,,0.5 per million per year,Pre-1986 baseline for comparison,UNSCEAR 2008
+by_2005,FSU all three countries,children_and_adolescents,,,>6000 confirmed,>6000 thyroid cancer cases confirmed by 2005 (UNSCEAR 2008 figure at time of writing),UNSCEAR 2008 p.25
+radiation_attributed_fraction,All three countries,all_exposed_under18,,~25%,,"~25% of 19233 cases attributed to radiation; remaining attributable to screening effects and background; fraction estimate = 0.25 (95% CI 0.07-0.50)",UNSCEAR 2008; PMC11252555
+mean_thyroid_dose_Belarus,Belarus (Gomel+Mogilev),all_ages,,,0.54 Gy mean,Mean I-131 thyroid dose from Gomel and Mogilev regions,PMC11252555
+mean_thyroid_dose_Ukraine,Ukraine,all_ages,,,0.65 Gy mean,Mean I-131 thyroid dose,PMC11252555
+mean_thyroid_dose_Russia,Russia 4 oblasts,all_ages,,,0.10 Gy mean,Much lower doses in Russian oblasts; explains lower incidence,PMC11252555
+fatalities,All three countries,all_diagnosed_1991_2005,15 deaths,,,"15 fatalities among all 1991-2005 diagnoses; survival rate ~99% in Belarus with modern treatment",WNA; Chernobyl Forum 2005
+gomel_children_dose_dist,Belarus Gomel,0-7 years,,,,"Dose distribution: <0.05 Gy: 1040 children; 0.05-0.1 Gy: 866; 0.1-0.3 Gy: 2348; 0.3-1 Gy: 4049; 1-2 Gy: 2102; >2 Gy: 5771",OECD-NEA Ch.IV (Gomel 0-7yr distribution)
+in_utero_exposures,Belarus,in_utero_May1986_Feb1987,250 children measured,,,"250 children measured: 135 <0.3 Gy; 95 cases 0.3-1 Gy; 20 cases >1 Gy; maximum 4.3 Gy thyroid dose",OECD-NEA Ch.IV

@@ -1,0 +1,54 @@
+country,year,n_workers_with_recorded_doses,pct_of_total,avg_external_dose_mGy,median_dose_mGy,p75_dose_mGy,p95_dose_mGy,collective_dose_man_Gy,notes,source
+All countries,1986,305826,58.1,146,44,,,535,Most workers; highest average doses; graphite fire period,UNSCEAR 2008 pp.82/Table on page 122
+All countries,1987,138173,26.3,96,,,13,240,Second year; dose declining,UNSCEAR 2008 Table p.122
+All countries,1988,51278,9.7,43,,,2,200,Declining access; safer conditions,UNSCEAR 2008 Table p.122
+All countries,1989,24128,4.6,41,,,993,993,Low doses; mostly administrative,UNSCEAR 2008 Table p.122
+All countries,1990,5766,1.1,47,,,271,271,,UNSCEAR 2008 Table p.122
+All countries,total_1986_1991,526250,100,110,,61,256,,,UNSCEAR 2008 Table p.122
+Belarus,dose_<10mGy,2196,25,4.7,,,,2.7% of collective,,UNSCEAR 2008 Table p.83
+Belarus,dose_10-20mGy,1791,20,16,,,,7.7% of collective,,UNSCEAR 2008 Table p.83
+Belarus,dose_20-50mGy,1858,21,33,,,,15.9% of collective,,UNSCEAR 2008 Table p.83
+Belarus,dose_50-100mGy,1865,21,75,,,,36.8% of collective,,UNSCEAR 2008 Table p.83
+Belarus,dose_100-200mGy,1032,12,120,,,,33.1% of collective,,UNSCEAR 2008 Table p.83
+Belarus,dose_200-500mGy,48,1,260,,,,3.3% of collective,,UNSCEAR 2008 Table p.83
+Belarus,dose_500-1000mGy,3,0.03,630,,,,0.5% of collective,,UNSCEAR 2008 Table p.83
+Belarus,dose_>1000mGy,0,0,,,,,0%,,UNSCEAR 2008 Table p.83
+Belarus,total,8793,100,43,,,,100%,,UNSCEAR 2008 Table p.83
+Russian Federation,dose_<10mGy,17297,13,4.5,,,,0.5% of collective,,UNSCEAR 2008 Table p.83
+Russian Federation,dose_10-20mGy,8300,6,14,,,,0.8% of collective,,UNSCEAR 2008 Table p.83
+Russian Federation,dose_20-50mGy,21347,16,36,,,,5.4% of collective,,UNSCEAR 2008 Table p.83
+Russian Federation,dose_50-100mGy,33656,25,81,,,,19.0% of collective,,UNSCEAR 2008 Table p.83
+Russian Federation,dose_100-200mGy,27185,20,150,,,,27.6% of collective,,UNSCEAR 2008 Table p.83
+Russian Federation,dose_200-500mGy,25945,19,230,,,,41.7% of collective,,UNSCEAR 2008 Table p.83
+Russian Federation,dose_500-1000mGy,401,0.3,610,,,,1.7% of collective,,UNSCEAR 2008 Table p.83
+Russian Federation,dose_>1000mGy,51,0.04,9400,,,,3.3% of collective,51 workers received >1000 mGy — extreme doses,UNSCEAR 2008 Table p.83
+Russian Federation,total,134182,100,107,,,,100%,,UNSCEAR 2008 Table p.83
+Ukraine,dose_<10mGy,3426,3.6,5.0,,,,0.1% of collective,,UNSCEAR 2008 Table p.83
+Ukraine,dose_10-20mGy,2164,2.4,16,,,,0.3% of collective,,UNSCEAR 2008 Table p.83
+Ukraine,dose_20-50mGy,23796,26,43,,,,8.5% of collective,,UNSCEAR 2008 Table p.83
+Ukraine,dose_50-100mGy,23592,26,86,,,,17.0% of collective,,UNSCEAR 2008 Table p.83
+Ukraine,dose_100-200mGy,16357,18,160,,,,22.4% of collective,,UNSCEAR 2008 Table p.83
+Ukraine,dose_200-500mGy,20755,23,240,,,,41.1% of collective,,UNSCEAR 2008 Table p.83
+Ukraine,dose_500-1000mGy,129,0.1,710,,,,0.8% of collective,,UNSCEAR 2008 Table p.83
+Ukraine,dose_>1000mGy,168,0.2,6900,,,,9.7% of collective,168 workers >1000 mGy; average 6900 mGy = 6.9 Gy,UNSCEAR 2008 Table p.83
+Ukraine,total,90387,100,132,,,,100%,,UNSCEAR 2008 Table p.83
+All countries,dose_<10mGy,23560,9.5,4.6,,,,0.4% of collective,,UNSCEAR 2008 Table p.84
+All countries,dose_10-20mGy,12963,5.3,14,,,,0.7% of collective,,UNSCEAR 2008 Table p.84
+All countries,dose_20-50mGy,48555,20,39,,,,6.7% of collective,,UNSCEAR 2008 Table p.84
+All countries,dose_50-100mGy,63398,26,82,,,,18.4% of collective,,UNSCEAR 2008 Table p.84
+All countries,dose_100-200mGy,48006,19,150,,,,25.5% of collective,,UNSCEAR 2008 Table p.84
+All countries,dose_200-500mGy,49630,20,240,,,,41.4% of collective,,UNSCEAR 2008 Table p.84
+All countries,dose_500-1000mGy,543,0.2,630,,,,1.2% of collective,,UNSCEAR 2008 Table p.84
+All countries,dose_>1000mGy,219,0.1,7500,,,,5.7% of collective,219 workers across all countries received >1000 mGy,UNSCEAR 2008 Table p.84
+All countries,total_with_records,246874,100,110,,,,100%,246874 of ~526250 total have recorded doses,UNSCEAR 2008 Table p.84
+Lithuania,dose_<10mGy,144,2.8,4.9,,,,0.1% of collective,,UNSCEAR 2008 Table p.84
+Lithuania,dose_50-100mGy,1699,34,76,,,,23.4% of collective,,UNSCEAR 2008 Table p.84
+Lithuania,dose_100-200mGy,1525,30,130,,,,35.6% of collective,,UNSCEAR 2008 Table p.84
+Lithuania,dose_200-500mGy,886,17,230,,,,36.2% of collective,,UNSCEAR 2008 Table p.84
+Lithuania,total,5069,100,109,,,,100%,,UNSCEAR 2008 Table p.84
+duration_dose_correlation,All,mission_<1month,11.3%_of_workers,122mGy_avg,,,,,"Workers on short missions: 11.3% total, 122 mGy avg",UNSCEAR 2008 Table p.82
+duration_dose_correlation,All,mission_1-2months,26.8%_of_workers,129mGy_avg,,,,,"Longest effective exposure window",UNSCEAR 2008 Table p.82
+duration_dose_correlation,All,mission_2-3months,28.4%_of_workers,117mGy_avg,,,,,,UNSCEAR 2008 Table p.82
+duration_dose_correlation,All,mission_3-6months,30.5%_of_workers,85mGy_avg,,,,,,"Longer missions = lower avg dose (safer later conditions)",UNSCEAR 2008 Table p.82
+duration_dose_correlation,All,mission_6-12months,1.9%_of_workers,90mGy_avg,,,,,,UNSCEAR 2008 Table p.82
+duration_dose_correlation,All,mission_>12months,1.1%_of_workers,97mGy_avg,,,,,,UNSCEAR 2008 Table p.82

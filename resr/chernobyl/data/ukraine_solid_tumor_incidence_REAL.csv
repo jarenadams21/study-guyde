@@ -1,0 +1,17 @@
+country,region,cancer_site,sex,period,AAPC_pct,CI95_low,CI95_high,interpretation,notes,source
+Ukraine,national,Thyroid,all,1999-2016,4.2,3.1,5.3,Significant increase; largest AAPC of any solid tumor; radiation-related component + surveillance increase,Thyroid AAPC highest nationally; Kyiv region ~2x national rate; screening effect partly explains rise,PMC6733202 JCO Global Oncol 2019
+Ukraine,national,Prostate,male,1999-2016,3.9,3.6,4.2,Significant increase; PSA screening-driven,Not radiation-related; PSA testing adoption 2000s-2010s,PMC6733202
+Ukraine,national,Kidney,all,1999-2016,2.3,1.8,2.9,Significant increase; imaging-driven detection,Incidental detection by CT/US; not radiation-related,PMC6733202
+Ukraine,national,Colon,all,1999-2016,1.5,1.3,1.7,Moderate increase; dietary/lifestyle factors,Consistent with European trends; colonoscopy screening incomplete,PMC6733202
+Ukraine,national,Rectal,all,1999-2016,0.9,0.6,1.2,Small increase,,PMC6733202
+Ukraine,national,Breast,female,1999-2016,1.0,0.6,1.4,Moderate increase; mammography + delayed childbearing,Not significantly radiation-related at population level,PMC6733202
+Ukraine,national,Cervical,female,1999-2016,0.7,0.3,1.2,Small increase; HPV prevalence,,PMC6733202
+Ukraine,national,Stomach,all,1999-2016,-2.4,-2.5,-2.3,Significant DECREASE; H. pylori treatment; improved food preservation,Global trend downward; not radiation-related,PMC6733202
+Ukraine,national,Lung,all,1999-2016,-1.8,-2.1,-1.5,Significant DECREASE; smoking rates declining in post-Soviet era,Smoking cessation partially offsets occupational exposures,PMC6733202
+Ukraine,Kyiv_oblast,Thyroid,all,1999-2016,,,,Thyroid ASIR approximately 2x national rate in Kyiv region; highest in Ukraine,Kyiv region: closest inhabited area to Chernobyl; highest historical I-131 doses outside 30km zone; ASIR ~2x national average,PMC6733202
+Ukraine,Kyiv_oblast,Esophageal,all,1999-2016,-1.4,-1.8,-0.1,Decreasing esophageal cancer in Kyiv region,,PMC6733202
+Ukraine,Volyn_oblast,Pancreatic,all,1999-2016,7.0,1.8,12.5,Very large increase in pancreatic cancer in Volyn; etiology unclear,Volyn oblast: northwest Ukraine; some contamination; AAPC 7% highest pancreatic AAPC in any region; may reflect improved diagnosis,PMC6733202
+Ukraine,Volyn_oblast,Brain,all,1999-2016,2.9,0.3,5.5,Elevated brain cancer trend in Volyn; imaging-driven detection,Brain AAPC in Volyn 2.9%; contrast national trend; likely imaging availability,PMC6733202
+Ukraine,Volyn_oblast,Thyroid,all,1999-2016,,,,Thyroid cancer ASIR in Volyn 2x LOWER than national rate; northwest Ukraine less contaminated than northeast,Volyn: relatively lower Cs-137 deposition; contrast with Kyiv/Zhitomir,PMC6733202
+Ukraine,national,All_solid_tumors_study_scope,all,1999-2016,,,,Study period and methodology,"National Cancer Registry of Ukraine; 18-year period 1999-2016; Joinpoint regression analysis (NCI method); age-standardized incidence rates (ASIR) per 100,000 PY using World standard population; data quality assessment conducted",PMC6733202 JCO Global Oncol 2019; doi:10.1200/JGO.19.00099
+Ukraine,national,Leukemia_liquidators_not_population,male_liquidators,1986-2006,,,,ERR/Gy=2.38 (95%CI 0.49-5.87) in Ukrainian liquidator cohort; NOT population cancer registry data,Liquidator cohort leukemia excess documented separately from population solid tumor trends; consistent with atomic bomb survivor ERR/Gy,PMC6770927; UNSCEAR 2008

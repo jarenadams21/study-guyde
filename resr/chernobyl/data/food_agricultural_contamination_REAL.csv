@@ -1,0 +1,31 @@
+medium,location,date_or_period,radionuclide,concentration_low,concentration_high,concentration_typical,units,notes,source
+cows_milk_I131,Belarus_Gomel_Mogilev,1986-04-26 to 1986-05-26,I-131,high,,,Bq_per_L,"Almost 11000 measurements of total beta-activity in cows milk in first month; specific values in full paper; Gomel and Mogilev oblasts; most contaminated regions",PubMed 32658640; PMC7813882
+cows_milk_I131,Germany_various,1986-05,I-131,20,500,,Bq_per_L,"German standard: milk <500 Bq/L I-131 for direct consumption; some states restricted to <20 Bq/L; West Germany temporary standards",BfS historical; GRS
+grass_soil_Germany_Magdeburg,Germany_Magdeburg,1986-05-05,I-131,,,75000,Bq_per_kg,"After heavy thunderstorm; wet deposition concentrated contamination; high local variability",Historical German monitoring records
+stormwater_Germany_Magdeburg,Germany_Magdeburg,1986-05-05,I-131,,,44000,Bq_per_L,Same rain event as above,Historical German monitoring records
+garden_soil_Germany_Magdeburg,Germany_Magdeburg,1986-05-05,I-131,,,40000,Bq_per_kg,Same rain event as above,Historical German monitoring records
+cows_milk_Cs,Poland,1987-03 to 1987-04,Cs-134+Cs-137,,,46,Bq_per_L,"Rise in March-April 1987; likely from hay harvested June 1986; secondary food pathway from soil-grass-milk",Poland monitoring; INIS records
+water_Kiev_reservoir,Ukraine_Kiev,1989,Cs-137,,,0.4,Bq_per_L,Kiev reservoir Cs-137 declining post-1986,OECD-NEA Ch.VI
+water_Kanev_reservoir,Ukraine_Kanev,1989,Cs-137,,,0.2,Bq_per_L,,OECD-NEA Ch.VI
+water_Kremenchug_reservoir,Ukraine_Kremenchug,1989,Cs-137,,,0.05,Bq_per_L,Lower concentrations downstream; dilution and settling,OECD-NEA Ch.VI
+fish_Kiev_Kanev,Ukraine_Kiev_to_Kanev,1987-1989,Cs-137,,,10x_decrease,factor_of_decline,"Cs-137 in fish fell by factor of 10 in Kiev-Kanev transition zone as reservoir settled radionuclides",OECD-NEA Ch.VI
+Swedish_lakes,Sweden,1987,Cs-137,1500,,,Bq_per_kg_fish,"About 14000 Swedish lakes exceeded 1500 Bq/kg threshold for fish in 1987; major impact on subsistence fishing; restrictions in place for years",OECD-NEA Ch.VI
+wild_mushrooms_berries,Ukraine_Rovno_Zhytomyr,2000,Cs-137,>permissible,,>90%,percent_exceeding_limit,"Up to 90% of wild berries and mushrooms exceeded permissible levels in Rovno and Zhytomyr provinces as of 2000; forest products accumulate Cs-137 strongly",PubMed 20002056
+dairy_Belarus_small_farms,Belarus_Gomel_Mogilev_Brest,2005-2007,Cs-137,7-8%_of_milk_exceeded,,7-8%,percent_exceeding_limit,"7-8% of milk from small farms in Gomel Mogilev Brest exceeded permissible levels as recently as 2005-2007; industrial farms mostly compliant",PubMed 20002056
+other_food_Belarus_small_farms,Belarus_Gomel_Mogilev_Brest,2005-2007,Cs-137,13-16%_exceeded,,13-16%,percent_exceeding_limit,"13-16% of other food products from small farms exceeded limits; private gardens and subsistence agriculture major ongoing pathway",PubMed 20002056
+child_Cs137_body_burden,Belarus_heavily_contaminated,1995-2007,Cs-137,>15_Bq_per_kg,,up_to_7300_Bq_per_kg,Bq_per_kg_body_weight,"Up to 90% of children from heavily contaminated territories had Cs-137 accumulation >15-20 Bq/kg; maximum 7300 Bq/kg in Narovlya District Gomel",PubMed 20002056
+agricultural_land_exclusion_zone,Ukraine_CEZ,2002,all_radionuclides,,,54900,ha_excluded,"54900 hectares in total exclusion zone prohibited from any agricultural use",OECD-NEA Ch.VI
+agricultural_land_185-555kBq,Ukraine,2002,Cs-137,185,555,,kBq_per_m2_restriction,"130800 hectares with 185-555 kBq/m2; strict agricultural restrictions",OECD-NEA Ch.VI
+agricultural_land_37-185kBq,Ukraine,2002,Cs-137,37,185,,kBq_per_m2_restriction,"1.1 million hectares with 37-185 kBq/m2; agricultural controls",OECD-NEA Ch.VI
+agricultural_land_3.7-37kBq,Ukraine,2002,Cs-137,3.7,37,,kBq_per_m2_restriction,"7.238 million hectares with 3.7-37 kBq/m2; monitoring required",OECD-NEA Ch.VI
+30km_zone_inventory_Cs137,Ukraine_30km_zone,1991,Cs-137,,,4.4e15,Bq,"4.4 PBq Cs-137 in 30km zone soils (1991 survey); 0-5cm layer 25-1000 kBq/m3",OECD-NEA Ch.VI
+30km_zone_inventory_Sr90,Ukraine_30km_zone,1991,Sr-90,,,4.0e15,Bq,4 PBq Sr-90 in 30km zone soils,OECD-NEA Ch.VI
+30km_zone_inventory_Pu,Ukraine_30km_zone,1991,Pu-239+240,,,3.2e13,Bq,"32 TBq Pu-239/240 in 30km zone soils; highly persistent contamination",OECD-NEA Ch.VI
+soil_contamination_Cs137_Europe,Europe,1986-1987,Cs-137,,,125000,km2_above_37kBq_m2,"~125000 km2 European land with Cs-137 >37 kBq/m2 total; includes FSU and rest of Europe",OECD-NEA Ch.VI
+soil_contamination_Sr90_FSU,FSU,1986-1987,Sr-90,,,30000,km2_above_10kBq_m2,"~30000 km2 with Sr-90 >10 kBq/m2; largely coincides with highest Cs-137 areas in Belarus/Ukraine/Russia",OECD-NEA Ch.VI
+countermeasure_potassium_fertilizer,CEZ_farms,1986-1995,Cs-137,2,14,,factor_reduction,"Potassium fertilizer reduces caesium uptake by plants by factor 2-14; most effective countermeasure for crop contamination",OECD-NEA Ch.VI
+countermeasure_lime_podzolic_soils,CEZ_podzolic_soils,1986-1995,Cs-137,,,30,factor_reduction,"Liming with fertilizers in podzolic soils reduced Cs-137 plant accumulation by factor of 30; major agricultural intervention",OECD-NEA Ch.VI
+food_standard_Ukraine_milk,Ukraine,1997,Cs-137,,,100,Bq_per_L,"Ukraine 1997 permissible level for milk = 100 Bq/L Cs-137; contemporary levels ~50 Bq/L in contaminated areas",OECD-NEA Ch.VI
+food_standard_Ukraine_meat,Ukraine,1997,Cs-137,,,200,Bq_per_kg,,OECD-NEA Ch.VI
+food_standard_Ukraine_potatoes_bread,Ukraine,1997,Cs-137,,,20,Bq_per_kg,"Strictest for staple foods consumed in large quantities",OECD-NEA Ch.VI
+I131_milk_pathway,Europe_general,1986-05,I-131,,,dominant,pathway,"I-131 in milk was the dominant pathway for thyroid dose in general population of Europe; grass-cow-milk chain concentrates I-131; faster than direct inhalation for sustained dose",OECD-NEA Ch.IV; UNSCEAR 2008

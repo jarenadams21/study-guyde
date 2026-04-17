@@ -1,0 +1,216 @@
+country,age_at_exposure_yr,sex,period,cases,crude_rate_per_100k_PY,notes,source
+Belarus,0-4,F,1982-1985,0,0.0,Pre-accident baseline; very few cancers,UNSCEAR 2017 White Paper Annex Table (update of UNSCEAR 2008 Table D11)
+Belarus,0-4,F,1986-1990,11,0.57,First 5 years post-accident; latency period,UNSCEAR 2017 White Paper
+Belarus,0-4,F,1991-1995,155,8.02,Major rise; 14x pre-accident rate in this age group,UNSCEAR 2017 White Paper
+Belarus,0-4,F,1996-2000,258,13.35,Continued rise as cohort ages,UNSCEAR 2017 White Paper
+Belarus,0-4,F,2001-2005,209,10.82,Slight decline as birth cohort moves out of childhood,UNSCEAR 2017 White Paper
+Belarus,0-4,F,2006-2010,276,14.52,Second rise; adult onset in now-20yr-olds,UNSCEAR 2017 White Paper
+Belarus,0-4,F,2011-2015,437,23.97,Still rising; female cases dominating,UNSCEAR 2017 White Paper
+Belarus,0-4,M,1982-1985,0,0.0,,UNSCEAR 2017 White Paper
+Belarus,0-4,M,1986-1990,9,0.45,,UNSCEAR 2017 White Paper
+Belarus,0-4,M,1991-1995,103,5.21,,UNSCEAR 2017 White Paper
+Belarus,0-4,M,1996-2000,146,7.38,,UNSCEAR 2017 White Paper
+Belarus,0-4,M,2001-2005,79,3.99,,UNSCEAR 2017 White Paper
+Belarus,0-4,M,2006-2010,79,4.01,,UNSCEAR 2017 White Paper
+Belarus,0-4,M,2011-2015,101,5.25,,UNSCEAR 2017 White Paper
+Belarus,5-9,F,1982-1985,0,0.0,,UNSCEAR 2017 White Paper
+Belarus,5-9,F,1986-1990,9,0.50,,UNSCEAR 2017 White Paper
+Belarus,5-9,F,1991-1995,108,6.02,,UNSCEAR 2017 White Paper
+Belarus,5-9,F,1996-2000,91,5.07,,UNSCEAR 2017 White Paper
+Belarus,5-9,F,2001-2005,169,9.42,,UNSCEAR 2017 White Paper
+Belarus,5-9,F,2006-2010,288,16.57,,UNSCEAR 2017 White Paper
+Belarus,5-9,F,2011-2015,403,21.31,,UNSCEAR 2017 White Paper
+Belarus,5-9,M,1982-1985,0,0.0,,UNSCEAR 2017 White Paper
+Belarus,5-9,M,1986-1990,10,0.54,,UNSCEAR 2017 White Paper
+Belarus,5-9,M,1991-1995,66,3.59,,UNSCEAR 2017 White Paper
+Belarus,5-9,M,1996-2000,42,2.29,,UNSCEAR 2017 White Paper
+Belarus,5-9,M,2001-2005,59,3.21,,UNSCEAR 2017 White Paper
+Belarus,5-9,M,2006-2010,64,3.66,,UNSCEAR 2017 White Paper
+Belarus,5-9,M,2011-2015,106,5.45,,UNSCEAR 2017 White Paper
+Belarus,10-14,F,1982-1985,0,0.0,,UNSCEAR 2017 White Paper
+Belarus,10-14,F,1986-1990,8,0.46,,UNSCEAR 2017 White Paper
+Belarus,10-14,F,1991-1995,67,3.85,,UNSCEAR 2017 White Paper
+Belarus,10-14,F,1996-2000,131,7.52,,UNSCEAR 2017 White Paper
+Belarus,10-14,F,2001-2005,202,11.60,,UNSCEAR 2017 White Paper
+Belarus,10-14,F,2006-2010,298,17.46,,UNSCEAR 2017 White Paper
+Belarus,10-14,F,2011-2015,398,23.05,,UNSCEAR 2017 White Paper
+Belarus,10-14,M,1982-1985,0,0.0,,UNSCEAR 2017 White Paper
+Belarus,10-14,M,1986-1990,7,0.39,,UNSCEAR 2017 White Paper
+Belarus,10-14,M,1991-1995,12,0.67,,UNSCEAR 2017 White Paper
+Belarus,10-14,M,1996-2000,43,2.39,,UNSCEAR 2017 White Paper
+Belarus,10-14,M,2001-2005,60,3.34,,UNSCEAR 2017 White Paper
+Belarus,10-14,M,2006-2010,77,4.67,,UNSCEAR 2017 White Paper
+Belarus,10-14,M,2011-2015,101,5.88,,UNSCEAR 2017 White Paper
+Belarus,15-18,F,1982-1985,0,0.0,,UNSCEAR 2017 White Paper
+Belarus,15-18,F,1986-1990,15,1.11,,UNSCEAR 2017 White Paper
+Belarus,15-18,F,1991-1995,57,4.21,,UNSCEAR 2017 White Paper
+Belarus,15-18,F,1996-2000,109,8.05,,UNSCEAR 2017 White Paper
+Belarus,15-18,F,2001-2005,223,16.46,,UNSCEAR 2017 White Paper
+Belarus,15-18,F,2006-2010,309,18.23,,UNSCEAR 2017 White Paper
+Belarus,15-18,F,2011-2015,358,21.16,,UNSCEAR 2017 White Paper
+Belarus,15-18,M,1982-1985,0,0.0,,UNSCEAR 2017 White Paper
+Belarus,15-18,M,1986-1990,5,0.37,,UNSCEAR 2017 White Paper
+Belarus,15-18,M,1991-1995,9,0.66,,UNSCEAR 2017 White Paper
+Belarus,15-18,M,1996-2000,33,2.41,,UNSCEAR 2017 White Paper
+Belarus,15-18,M,2001-2005,40,2.93,,UNSCEAR 2017 White Paper
+Belarus,15-18,M,2006-2010,64,4.0,,UNSCEAR 2017 White Paper
+Belarus,15-18,M,2011-2015,76,4.73,,UNSCEAR 2017 White Paper
+Belarus,0-18_total,F,1982-1985,2,0.04,Pre-accident baseline all ages; 2 cases,UNSCEAR 2017 White Paper
+Belarus,0-18_total,F,1986-1990,43,0.64,43 female cases in first 5yr post-accident,UNSCEAR 2017 White Paper
+Belarus,0-18_total,F,1991-1995,387,5.72,Major rise begins; 387 female cases,UNSCEAR 2017 White Paper
+Belarus,0-18_total,F,1996-2000,589,8.71,,UNSCEAR 2017 White Paper
+Belarus,0-18_total,F,2001-2005,803,11.88,,UNSCEAR 2017 White Paper
+Belarus,0-18_total,F,2006-2010,1171,16.64,Monotonic increase continues into 2nd and 3rd decade post-accident,UNSCEAR 2017 White Paper
+Belarus,0-18_total,F,2011-2015,1596,22.38,1596 female cases in 5 years; rate still rising,UNSCEAR 2017 White Paper
+Belarus,0-18_total,M,1982-1985,1,0.02,,UNSCEAR 2017 White Paper
+Belarus,0-18_total,M,1986-1990,31,0.45,,UNSCEAR 2017 White Paper
+Belarus,0-18_total,M,1991-1995,190,2.75,,UNSCEAR 2017 White Paper
+Belarus,0-18_total,M,1996-2000,264,3.82,,UNSCEAR 2017 White Paper
+Belarus,0-18_total,M,2001-2005,238,3.44,,UNSCEAR 2017 White Paper
+Belarus,0-18_total,M,2006-2010,284,4.10,,UNSCEAR 2017 White Paper
+Belarus,0-18_total,M,2011-2015,384,5.34,,UNSCEAR 2017 White Paper
+Russia_4oblasts,0-4,F,1982-1985,0,0.0,Bryansk Kaluga Orel Tula oblasts; most contaminated Russian regions,UNSCEAR 2017 White Paper
+Russia_4oblasts,0-4,F,1986-1990,1,0.12,,UNSCEAR 2017 White Paper
+Russia_4oblasts,0-4,F,1991-1995,13,1.5,,UNSCEAR 2017 White Paper
+Russia_4oblasts,0-4,F,1996-2000,36,3.9,,UNSCEAR 2017 White Paper
+Russia_4oblasts,0-4,F,2001-2005,46,5.2,,UNSCEAR 2017 White Paper
+Russia_4oblasts,0-4,F,2006-2010,57,6.3,,UNSCEAR 2017 White Paper
+Russia_4oblasts,0-4,F,2011-2015,96,11.5,,UNSCEAR 2017 White Paper
+Russia_4oblasts,0-4,M,1982-1985,0,0.0,,UNSCEAR 2017 White Paper
+Russia_4oblasts,0-4,M,1986-1990,0,0.0,,UNSCEAR 2017 White Paper
+Russia_4oblasts,0-4,M,1991-1995,12,1.3,,UNSCEAR 2017 White Paper
+Russia_4oblasts,0-4,M,1996-2000,26,2.8,,UNSCEAR 2017 White Paper
+Russia_4oblasts,0-4,M,2001-2005,24,2.7,,UNSCEAR 2017 White Paper
+Russia_4oblasts,0-4,M,2006-2010,21,2.2,,UNSCEAR 2017 White Paper
+Russia_4oblasts,0-4,M,2011-2015,15,1.7,,UNSCEAR 2017 White Paper
+Russia_4oblasts,5-9,F,1982-1985,1,0.15,,UNSCEAR 2017 White Paper
+Russia_4oblasts,5-9,F,1986-1990,2,0.24,,UNSCEAR 2017 White Paper
+Russia_4oblasts,5-9,F,1991-1995,20,2.4,,UNSCEAR 2017 White Paper
+Russia_4oblasts,5-9,F,1996-2000,37,4.3,,UNSCEAR 2017 White Paper
+Russia_4oblasts,5-9,F,2001-2005,52,6.4,,UNSCEAR 2017 White Paper
+Russia_4oblasts,5-9,F,2006-2010,117,13.4,,UNSCEAR 2017 White Paper
+Russia_4oblasts,5-9,F,2011-2015,133,16.5,,UNSCEAR 2017 White Paper
+Russia_4oblasts,5-9,M,1982-1985,0,0.0,,UNSCEAR 2017 White Paper
+Russia_4oblasts,5-9,M,1986-1990,1,0.12,,UNSCEAR 2017 White Paper
+Russia_4oblasts,5-9,M,1991-1995,6,0.69,,UNSCEAR 2017 White Paper
+Russia_4oblasts,5-9,M,1996-2000,10,1.1,,UNSCEAR 2017 White Paper
+Russia_4oblasts,5-9,M,2001-2005,14,1.7,,UNSCEAR 2017 White Paper
+Russia_4oblasts,5-9,M,2006-2010,21,2.4,,UNSCEAR 2017 White Paper
+Russia_4oblasts,5-9,M,2011-2015,19,2.3,,UNSCEAR 2017 White Paper
+Russia_4oblasts,10-14,F,1982-1985,0,0.0,,UNSCEAR 2017 White Paper
+Russia_4oblasts,10-14,F,1986-1990,3,0.36,,UNSCEAR 2017 White Paper
+Russia_4oblasts,10-14,F,1991-1995,24,3.0,,UNSCEAR 2017 White Paper
+Russia_4oblasts,10-14,F,1996-2000,48,6.0,,UNSCEAR 2017 White Paper
+Russia_4oblasts,10-14,F,2001-2005,108,13.9,,UNSCEAR 2017 White Paper
+Russia_4oblasts,10-14,F,2006-2010,131,15.3,,UNSCEAR 2017 White Paper
+Russia_4oblasts,10-14,F,2011-2015,178,22.5,,UNSCEAR 2017 White Paper
+Russia_4oblasts,10-14,M,1982-1985,0,0.0,,UNSCEAR 2017 White Paper
+Russia_4oblasts,10-14,M,1986-1990,1,0.12,,UNSCEAR 2017 White Paper
+Russia_4oblasts,10-14,M,1991-1995,9,1.1,,UNSCEAR 2017 White Paper
+Russia_4oblasts,10-14,M,1996-2000,9,1.1,,UNSCEAR 2017 White Paper
+Russia_4oblasts,10-14,M,2001-2005,10,1.2,,UNSCEAR 2017 White Paper
+Russia_4oblasts,10-14,M,2006-2010,19,2.3,,UNSCEAR 2017 White Paper
+Russia_4oblasts,10-14,M,2011-2015,40,5.3,,UNSCEAR 2017 White Paper
+Russia_4oblasts,15-18,F,1982-1985,1,0.18,,UNSCEAR 2017 White Paper
+Russia_4oblasts,15-18,F,1986-1990,8,1.2,,UNSCEAR 2017 White Paper
+Russia_4oblasts,15-18,F,1991-1995,43,7.2,,UNSCEAR 2017 White Paper
+Russia_4oblasts,15-18,F,1996-2000,61,10.0,,UNSCEAR 2017 White Paper
+Russia_4oblasts,15-18,F,2001-2005,87,13.9,,UNSCEAR 2017 White Paper
+Russia_4oblasts,15-18,F,2006-2010,91,14.4,,UNSCEAR 2017 White Paper
+Russia_4oblasts,15-18,F,2011-2015,126,21.5,,UNSCEAR 2017 White Paper
+Russia_4oblasts,15-18,M,1982-1985,0,0.0,,UNSCEAR 2017 White Paper
+Russia_4oblasts,15-18,M,1986-1990,1,0.15,,UNSCEAR 2017 White Paper
+Russia_4oblasts,15-18,M,1991-1995,8,1.3,,UNSCEAR 2017 White Paper
+Russia_4oblasts,15-18,M,1996-2000,14,2.1,,UNSCEAR 2017 White Paper
+Russia_4oblasts,15-18,M,2001-2005,17,2.6,,UNSCEAR 2017 White Paper
+Russia_4oblasts,15-18,M,2006-2010,20,3.3,,UNSCEAR 2017 White Paper
+Russia_4oblasts,15-18,M,2011-2015,20,3.6,,UNSCEAR 2017 White Paper
+Russia_4oblasts,0-18_total,F,1982-1985,2,0.09,,UNSCEAR 2017 White Paper
+Russia_4oblasts,0-18_total,F,1986-1990,14,0.44,,UNSCEAR 2017 White Paper
+Russia_4oblasts,0-18_total,F,1991-1995,100,3.2,,UNSCEAR 2017 White Paper
+Russia_4oblasts,0-18_total,F,1996-2000,182,5.7,,UNSCEAR 2017 White Paper
+Russia_4oblasts,0-18_total,F,2001-2005,293,9.5,,UNSCEAR 2017 White Paper
+Russia_4oblasts,0-18_total,F,2006-2010,396,12.1,,UNSCEAR 2017 White Paper
+Russia_4oblasts,0-18_total,F,2011-2015,533,17.7,,UNSCEAR 2017 White Paper
+Russia_4oblasts,0-18_total,M,1982-1985,0,0.0,,UNSCEAR 2017 White Paper
+Russia_4oblasts,0-18_total,M,1986-1990,3,0.09,,UNSCEAR 2017 White Paper
+Russia_4oblasts,0-18_total,M,1991-1995,35,1.1,,UNSCEAR 2017 White Paper
+Russia_4oblasts,0-18_total,M,1996-2000,59,1.8,,UNSCEAR 2017 White Paper
+Russia_4oblasts,0-18_total,M,2001-2005,65,2.0,,UNSCEAR 2017 White Paper
+Russia_4oblasts,0-18_total,M,2006-2010,81,2.5,,UNSCEAR 2017 White Paper
+Russia_4oblasts,0-18_total,M,2011-2015,94,3.1,,UNSCEAR 2017 White Paper
+Ukraine,0-4,F,1982-1985,0,0.0,,UNSCEAR 2017 White Paper
+Ukraine,0-4,F,1986-1990,6,0.1,,UNSCEAR 2017 White Paper
+Ukraine,0-4,F,1991-1995,85,0.9,,UNSCEAR 2017 White Paper
+Ukraine,0-4,F,1996-2000,202,2.2,,UNSCEAR 2017 White Paper
+Ukraine,0-4,F,2001-2005,254,2.9,,UNSCEAR 2017 White Paper
+Ukraine,0-4,F,2006-2010,420,4.6,,UNSCEAR 2017 White Paper
+Ukraine,0-4,F,2011-2015,957,11.0,Still rising sharply; 957 cases in 5yr window,UNSCEAR 2017 White Paper
+Ukraine,0-4,M,1982-1985,0,0.0,,UNSCEAR 2017 White Paper
+Ukraine,0-4,M,1986-1990,9,0.1,,UNSCEAR 2017 White Paper
+Ukraine,0-4,M,1991-1995,55,0.6,,UNSCEAR 2017 White Paper
+Ukraine,0-4,M,1996-2000,91,0.9,,UNSCEAR 2017 White Paper
+Ukraine,0-4,M,2001-2005,103,1.1,,UNSCEAR 2017 White Paper
+Ukraine,0-4,M,2006-2010,103,1.1,,UNSCEAR 2017 White Paper
+Ukraine,0-4,M,2011-2015,183,2.0,,UNSCEAR 2017 White Paper
+Ukraine,5-9,F,1982-1985,1,0.01,,UNSCEAR 2017 White Paper
+Ukraine,5-9,F,1986-1990,20,0.2,,UNSCEAR 2017 White Paper
+Ukraine,5-9,F,1991-1995,106,1.2,,UNSCEAR 2017 White Paper
+Ukraine,5-9,F,1996-2000,181,2.0,,UNSCEAR 2017 White Paper
+Ukraine,5-9,F,2001-2005,326,3.9,,UNSCEAR 2017 White Paper
+Ukraine,5-9,F,2006-2010,601,7.0,,UNSCEAR 2017 White Paper
+Ukraine,5-9,F,2011-2015,1091,14.0,,UNSCEAR 2017 White Paper
+Ukraine,5-9,M,1982-1985,0,0.0,,UNSCEAR 2017 White Paper
+Ukraine,5-9,M,1986-1990,7,0.1,,UNSCEAR 2017 White Paper
+Ukraine,5-9,M,1991-1995,40,0.4,,UNSCEAR 2017 White Paper
+Ukraine,5-9,M,1996-2000,57,0.6,,UNSCEAR 2017 White Paper
+Ukraine,5-9,M,2001-2005,74,0.8,,UNSCEAR 2017 White Paper
+Ukraine,5-9,M,2006-2010,121,1.4,,UNSCEAR 2017 White Paper
+Ukraine,5-9,M,2011-2015,218,2.8,,UNSCEAR 2017 White Paper
+Ukraine,10-14,F,1982-1985,9,0.1,,UNSCEAR 2017 White Paper
+Ukraine,10-14,F,1986-1990,35,0.4,,UNSCEAR 2017 White Paper
+Ukraine,10-14,F,1991-1995,113,1.2,,UNSCEAR 2017 White Paper
+Ukraine,10-14,F,1996-2000,252,2.8,,UNSCEAR 2017 White Paper
+Ukraine,10-14,F,2001-2005,496,5.7,,UNSCEAR 2017 White Paper
+Ukraine,10-14,F,2006-2010,693,8.3,,UNSCEAR 2017 White Paper
+Ukraine,10-14,F,2011-2015,1148,14.9,,UNSCEAR 2017 White Paper
+Ukraine,10-14,M,1982-1985,7,0.1,,UNSCEAR 2017 White Paper
+Ukraine,10-14,M,1986-1990,18,0.2,,UNSCEAR 2017 White Paper
+Ukraine,10-14,M,1991-1995,34,0.4,,UNSCEAR 2017 White Paper
+Ukraine,10-14,M,1996-2000,55,0.6,,UNSCEAR 2017 White Paper
+Ukraine,10-14,M,2001-2005,99,1.1,,UNSCEAR 2017 White Paper
+Ukraine,10-14,M,2006-2010,140,1.7,,UNSCEAR 2017 White Paper
+Ukraine,10-14,M,2011-2015,248,3.4,,UNSCEAR 2017 White Paper
+Ukraine,15-18,F,1982-1985,15,0.3,,UNSCEAR 2017 White Paper
+Ukraine,15-18,F,1986-1990,54,0.8,,UNSCEAR 2017 White Paper
+Ukraine,15-18,F,1991-1995,176,2.6,,UNSCEAR 2017 White Paper
+Ukraine,15-18,F,1996-2000,277,4.0,,UNSCEAR 2017 White Paper
+Ukraine,15-18,F,2001-2005,403,5.4,,UNSCEAR 2017 White Paper
+Ukraine,15-18,F,2006-2010,624,9.7,,UNSCEAR 2017 White Paper
+Ukraine,15-18,F,2011-2015,988,16.9,,UNSCEAR 2017 White Paper
+Ukraine,15-18,M,1982-1985,7,0.1,,UNSCEAR 2017 White Paper
+Ukraine,15-18,M,1986-1990,15,0.2,,UNSCEAR 2017 White Paper
+Ukraine,15-18,M,1991-1995,37,0.5,,UNSCEAR 2017 White Paper
+Ukraine,15-18,M,1996-2000,53,0.7,,UNSCEAR 2017 White Paper
+Ukraine,15-18,M,2001-2005,74,1.0,,UNSCEAR 2017 White Paper
+Ukraine,15-18,M,2006-2010,121,2.0,,UNSCEAR 2017 White Paper
+Ukraine,15-18,M,2011-2015,190,3.5,,UNSCEAR 2017 White Paper
+Ukraine,0-18_total,F,1982-1985,25,0.1,,UNSCEAR 2017 White Paper
+Ukraine,0-18_total,F,1986-1990,115,0.3,,UNSCEAR 2017 White Paper
+Ukraine,0-18_total,F,1991-1995,480,1.4,,UNSCEAR 2017 White Paper
+Ukraine,0-18_total,F,1996-2000,912,2.7,,UNSCEAR 2017 White Paper
+Ukraine,0-18_total,F,2001-2005,1479,4.4,,UNSCEAR 2017 White Paper
+Ukraine,0-18_total,F,2006-2010,2338,7.2,,UNSCEAR 2017 White Paper
+Ukraine,0-18_total,F,2011-2015,4184,13.9,Ukraine largest cohort; rate still rising in 2015,UNSCEAR 2017 White Paper
+Ukraine,0-18_total,M,1982-1985,14,0.05,,UNSCEAR 2017 White Paper
+Ukraine,0-18_total,M,1986-1990,49,0.1,,UNSCEAR 2017 White Paper
+Ukraine,0-18_total,M,1991-1995,166,0.5,,UNSCEAR 2017 White Paper
+Ukraine,0-18_total,M,1996-2000,256,0.7,,UNSCEAR 2017 White Paper
+Ukraine,0-18_total,M,2001-2005,350,1.0,,UNSCEAR 2017 White Paper
+Ukraine,0-18_total,M,2006-2010,485,1.5,,UNSCEAR 2017 White Paper
+Ukraine,0-18_total,M,2011-2015,839,2.8,,UNSCEAR 2017 White Paper
+dose_response,Belarus_screening_cohort,combined,all,133,,EOR per Gy = 3.16 (95% CI: 1.49-6.95) for doses <5 Gy; linear dose-response confirmed,UNSCEAR 2017 / PMC3039791 Zablotska 2011
+dose_response,Belarus_screening_cohort,pre-screening,all,48,,EOR per Gy = 8.18 (95% CI: 2.11-72.71); higher EOR in pre-screening cases (less ascertainment bias),PMC3039791 Zablotska 2011
+dose_response,Belarus_screening_cohort,screening,all,85,,EOR per Gy = 2.15 (95% CI: 0.81-5.47); lower due to inclusion of subclinical screen-detected cases,PMC3039791 Zablotska 2011
+attributable_fraction,All_3_countries,all_ages,all,0.25,,"UNSCEAR best estimate: 25% of 19233 cases (1991-2015) attributable to radiation; range 7-50%; remaining 75% due to screening effects, background, and spontaneous rate increase",UNSCEAR 2017 White Paper; PMC11252555
+three_country_total,All_3_countries,0-18_at_accident,1991-2015,19233,,"19233 total: Belarus 5906 + Russia 1838 + Ukraine 11489; female 15443 / male 3790; F:M ratio ~4:1",UNSCEAR 2017 White Paper Table 2

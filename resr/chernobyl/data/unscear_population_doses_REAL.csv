@@ -1,0 +1,21 @@
+population_group,country,population_thousands,avg_thyroid_dose_mGy,avg_effective_dose_mSv_1986_2005,collective_thyroid_dose_man_Gy,collective_effective_dose_man_Sv,notes,source
+Recovery operation workers,Belarus,91,,51,,4700,Average effective dose 51 mSv; no thyroid dose recorded for workers (thyroid not primary exposure pathway),UNSCEAR 2008 Table B19
+Recovery operation workers,Russian Federation,190,,107,,20100,107 mSv average effective dose; largest worker cohort by collective dose,UNSCEAR 2008 Table B19
+Recovery operation workers,Ukraine,230,,151,,34500,Highest average effective dose among national cohorts at 151 mSv,UNSCEAR 2008 Table B19
+Recovery operation workers,Estonia,4.8,,99,,460,,UNSCEAR 2008 Table B19
+Recovery operation workers,Latvia,6.1,,117,,700,,UNSCEAR 2008 Table B19
+Recovery operation workers,Lithuania,7.0,,109,,750,,UNSCEAR 2008 Table B19
+Recovery operation workers,All countries,530,,117,,61200,530000 total registered liquidators; average 117 mSv,UNSCEAR 2008 Table B19
+Evacuees,Belarus,25,1100,36,27000,900,Highest thyroid doses; children 0-6yr averaged 4616 mGy thyroid dose,UNSCEAR 2008 Table B19
+Evacuees,Russian Federation,0.19,440,35,82,7,Very small Russian evacuee cohort,UNSCEAR 2008 Table B19
+Evacuees,Ukraine,90,330,30,30000,2700,Largest evacuee group; 90000 persons from 30km zone,UNSCEAR 2008 Table B19
+Evacuees,All,115,490,31,57000,3600,All evacuees combined; average 490 mGy thyroid dose; 31 mSv effective dose,UNSCEAR 2008 Table B19
+Contaminated area inhabitants,Belarus,1800,182,12,320000,20800,Areas >37 kBq/m2 Cs-137,UNSCEAR 2008 Table B19
+Contaminated area inhabitants,Russian Federation,2500,27,7,70000,16900,,UNSCEAR 2008 Table B19
+Contaminated area inhabitants,Ukraine,2100,123,10,260000,21200,,UNSCEAR 2008 Table B19
+Contaminated area inhabitants,All,6400,102,9,650000,58900,~6.4 million people in areas >37 kBq/m2,UNSCEAR 2008 Table B19
+All inhabitants (wider area),Belarus,10000,49,2.4,480000,24000,All Belarus,UNSCEAR 2008 Table B19
+All inhabitants (wider area),Russian Federation 19 affected regions,37000,5,1.1,190000,40000,,UNSCEAR 2008 Table B19
+All inhabitants (wider area),Ukraine,51000,19,1.2,960000,61000,,UNSCEAR 2008 Table B19
+All inhabitants (wider area),All three republics,98000,16,1.3,1600000,125000,,UNSCEAR 2008 Table B19
+Distant countries,All,500000,1.3,0.3,660000,130000,Rest of world outside FSU; doses comparable to background variation,UNSCEAR 2008 Table B19

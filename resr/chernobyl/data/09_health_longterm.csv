@@ -1,0 +1,32 @@
+population_group,metric,value,units,time_period,notes,source
+Liquidators,total_registered,~600000,persons,1986-1990,Recovery operation workers; 65% worked in 1986-87 in 30km zone,UNSCEAR 2008 Annex D
+Liquidators,average_recorded_dose_overall,~120,mSv,1986-1990,Official registry mean; note: dosimetry reliability debated for highest-exposed 1986 workers,UNSCEAR 2008 Annex D
+Liquidators,average_dose_1986_cohort,~170,mSv,1986,Highest year; average for workers registered that year,OECD-NEA Ch.IV / RNMDR
+Liquidators,average_dose_1987_cohort,~130,mSv,1987,,OECD-NEA Ch.IV / RNMDR
+Liquidators,average_dose_1988_cohort,~30,mSv,1988,Declining as clean-up conditions improved and access restricted,OECD-NEA Ch.IV / RNMDR
+Liquidators,average_dose_1989_cohort,~15,mSv,1989,,OECD-NEA Ch.IV / RNMDR
+Liquidators,high_exposure_cohort_n,~20000,persons,1986-1987,Received ~250 mSv each; small sub-cohort received ~500 mSv,WNA; Chernobyl Forum 2005
+Liquidators,RNMDR_entries,174000,records,as of 1999,Russian National Medical and Dosimetric Registry; validated dose records,OECD-NEA Ch.IV
+Liquidators,union_chernobyl_statement_dead,10%,percent (~60000 persons),by 2006,Union Chernobyl (liquidator organization) statement; not independently verified; includes all causes,Wikipedia / Union Chernobyl
+Liquidators,union_chernobyl_statement_disabled,165000,persons,by 2006,All causes; not radiation-specific,Union Chernobyl 2006
+Liquidators,85pct_dose_range,20-500,mSv,1986-1990,85% of recorded doses fell within this range,UNSCEAR 2008 Annex D
+Liquidators,leukemia_evidence,emerging increase in higher-dose Russian workers,note,,Some evidence of leukemia increase in cohort with higher doses per UNSCEAR 2008,UNSCEAR 2008 Annex D
+Pripyat_residents,population_evacuated,45000,persons,April 27 1986,Evacuation began ~36 hours post-explosion; thyroid dose received during delay,Historical record
+30km_zone_evacuees,population_evacuated,116000,persons,by May 14 1986,Full 30km zone evacuation; some received up to 100+ mSv whole body,UNSCEAR 2008 Annex D; WNA
+Later_resettled,population_resettled,220000,persons,1986-1990,From contaminated areas beyond 30km; primarily Cs-137 and Sr-90 zones,Chernobyl Forum 2005
+Strict_control_areas,population,216000,persons,1986,Lived in areas with >555 kBq/m2 Cs-137 or >185 kBq/m2 Sr-90,Chernobyl Forum 2005
+Strict_control_areas,average_whole_body_dose_20yr,31,mSv,1986-2005,20-year accumulated dose,Chernobyl Forum 2005
+Contaminated_general,population,6400000,persons,1986,Lived in areas with elevated but lower contamination,Chernobyl Forum 2005
+Contaminated_general,average_whole_body_dose_20yr,9,mSv,1986-2005,For context: average annual global background is ~2.4 mSv/yr,Chernobyl Forum 2005
+Thyroid_cancer_preaccident,incidence_children,~0.5,per million per year,pre-1986,Pre-accident baseline in Soviet Union,UNSCEAR 2008 Annex D
+Thyroid_cancer_Belarus_girls_peak,incidence_children,~40,per million per year,1993,~80x increase from baseline; Gomel and Brest oblasts closest to ChNPP,UNSCEAR 2008 Annex D
+Thyroid_cancer_Belarus_boys_peak,incidence_children,~20,per million per year,1993,~40x increase from baseline,UNSCEAR 2008 Annex D
+Thyroid_cancer_total_cases,total_cases_under18_at_accident,>19000,cases,1991-2015,Belarus + Ukraine + most contaminated Russian oblasts; patients who were <18 in 1986,WNA; UNSCEAR
+Thyroid_cancer_total_UNSCEAR,total_cases_under18_at_accident,>6000,cases,by 2005,UNSCEAR 2008 count at time of writing; numbers grew since then,UNSCEAR 2008 Annex D
+Thyroid_cancer_attributed,radiation_attributed,~5000,cases,1991-2015,~25% of total 19000+ cases directly attributed to Chernobyl I-131 exposure; rest background + screening artifact,WNA
+Thyroid_cancer_deaths,fatalities,15,persons,1991-2005 diagnoses,Very low mortality rate given modern treatment; survival rate in Belarus ~99%,Chernobyl Forum 2005; WNA
+Thyroid_cancer_mechanism,pathway,,note,,Radioiodine (I-131) inhaled + ingested via milk; concentrated in thyroid gland; beta irradiation of thyroid tissue; latency ~4-10 years for cancers to develop,Radiobiology
+Belarus_Gomel_crude_incidence_1993,incidence,9.4,per 100000,1993,Gomel oblast (directly north of ChNPP); highest incidence recorded,UNSCEAR 2008 Annex D
+Belarus_Brest_crude_incidence_1993,incidence,6.7,per 100000,1993,Second-most affected oblast,UNSCEAR 2008 Annex D
+Other_cancers,leukemia_firm_signal,limited to high-dose workers only,note,,Only cohort with consistent leukemia signal is liquidators who received >100-150 mSv; no clear solid tumor excess in general population at population-level doses,UNSCEAR 2008 Annex D
+Mental_health,PTSD_elevated,highest-exposure workers most symptomatic,note,,Somatization and PTSD scales elevated in highest-exposure liquidators; significant psychological toll independent of physical dose,UNSCEAR 2008 Annex D

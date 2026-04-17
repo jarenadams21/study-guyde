@@ -1,0 +1,30 @@
+event,dates,area_burned_km2,radionuclide,quantity,units,notes,source
+2015_spring_fire,2015-04 to 2015-05,92.41,Cs-137,10.9,TBq,Labile (volatile/exchangeable) Cs fraction; 93% deposited in Eastern Europe; Evangeliou FLEXPART transport model,Evangeliou et al. 2016 Scientific Reports doi:10.1038/srep26062
+2015_spring_fire,2015-04 to 2015-05,92.41,Sr-90,1.5,TBq,93% deposited Eastern Europe,Evangeliou et al. 2016 Scientific Reports
+2015_spring_fire,2015-04 to 2015-05,92.41,Pu-238,7.8,GBq,Refractory fraction; shorter atmospheric lifetime; 97% Eastern Europe,Evangeliou et al. 2016 Scientific Reports
+2015_spring_fire,2015-04 to 2015-05,92.41,Pu-239,6.3,GBq,Refractory; 97% Eastern Europe,Evangeliou et al. 2016 Scientific Reports
+2015_spring_fire,2015-04 to 2015-05,92.41,Pu-240,9.4,GBq,Refractory; 97% Eastern Europe,Evangeliou et al. 2016 Scientific Reports
+2015_spring_fire,2015-04 to 2015-05,92.41,Am-241,29.7,GBq,Highest released transuranic by activity; Am-241 ingrowth from Pu-241 increasing over time,Evangeliou et al. 2016 Scientific Reports
+2015_summer_fire,2015-08,58.67,Cs-137,fraction_of_spring,TBq,75% Eastern Europe in summer event; lower western Europe transport in summer meteorology,Evangeliou et al. 2016 Scientific Reports
+2015_summer_fire,2015-08,58.67,Pu_plus_Am,fraction_of_spring,GBq,59% Eastern Europe refractory fraction,Evangeliou et al. 2016 Scientific Reports
+2020_spring_fire_total,2020-04-03 to 2020-04-21,870,Cs-137,630,GBq,Total atmospheric Cs-137 release; burned area 870 km2 (41% forest 59% grassland); Sakhan catchment 128.9 km2 of 185.7 km2 total (69.2%) burned,PMC11580172 / MDPI 2021
+2020_spring_fire_total,2020-04-03 to 2020-04-21,870,Sr-90,13,GBq,Total atmospheric Sr-90 release; much lower than Cs-137,PMC11580172
+2020_spring_fire_total,2020-04-03 to 2020-04-21,870,all_radionuclides,643,GBq,Combined total radionuclide atmospheric release; predominantly Cs-137,PMC11580172
+2020_fire_soil_inventory,pre-fire_2020,870,Cs-137,635,kBq_per_m2_avg,Average Cs-137 soil inventory in burned area before fire; pre-fire baseline,PMC11580172
+2020_fire_soil_inventory,pre-fire_2020,870,Sr-90,197,kBq_per_m2_avg,Average Sr-90 soil inventory in burned area before fire,PMC11580172
+2020_fire_water_pre,2016_to_Apr2020,riverine,Cs-137_dissolved,0.013-1.90,Bq_per_L,Dissolved Cs-137 in Sakhan River pre-fire monitoring; max 0.51 Bq/L; highly variable,PMC11580172
+2020_fire_water_pre,2016_to_Apr2020,riverine,Sr-90_dissolved,0.22-3.61,Bq_per_L,Dissolved Sr-90 pre-fire; WHO action level 2 Bq/L exceeded 4 times,PMC11580172
+2020_fire_water_post,2020-04 to 2022-02,riverine,Cs-137_particulate,0.001-0.36,Bq_per_L,Particulate Cs-137 post-fire; no dramatic increase in dissolved Cs (Cs-137 resorbs to char),PMC11580172
+2020_fire_water_post,2020-04 to 2022-02,riverine,Sr-90_dissolved,0.35-11.0,Bq_per_L,Dissolved Sr-90 increased post-fire; peak 11.0 Bq/L in May 2021; WHO limit 2 Bq/L exceeded 7 times post-fire (vs 4 times pre-fire),PMC11580172
+2020_fire_char_analysis,post-fire,charred_residues,Cs-137_water_soluble,2.24,percent,Low Cs-137 solubility in charred residues; most Cs-137 remains particle-bound even after burning,PMC11580172
+2020_fire_char_analysis,post-fire,charred_residues,Cs-137_exchangeable,17.40,percent,,PMC11580172
+2020_fire_char_analysis,post-fire,charred_residues,Sr-90_water_soluble,5.44,percent,Higher Sr-90 mobility explains post-fire Sr-90 river increase,PMC11580172
+2020_fire_char_analysis,post-fire,charred_residues,Sr-90_exchangeable,27.50,percent,Combined 33% Sr-90 labile; explains post-fire river concentration increase,PMC11580172
+2020_fire_Kd,post-fire,charred_residues,Cs-137_distribution_coeff,884,L_per_kg,Kd = 884 ± 876 L/kg; high Kd = Cs stays particle-bound; explains limited dissolved Cs increase,PMC11580172
+2020_fire_Kd,post-fire,charred_residues,Sr-90_distribution_coeff,270,L_per_kg,Kd = 270 ± 57 L/kg; lower Kd = Sr-90 more water-mobile post-fire,PMC11580172
+2020_fire_PM25,2020-04-10,Kiev_Ukraine,PM2.5_peak,300,µg_per_m3,Peak PM2.5 over Kiev during April 2020 fire; WHO 24h guideline is 15 µg/m3; 20x above guideline,MDPI doi:10.3390/atmos12040467
+2015_fire_context,2015,CEZ_all_forests,Cs-137_forest_inventory,~95,PBq,~95 PBq Cs-137 total in CEZ vegetation + soil litter available for wildfire mobilization over time; wildfire is primary ongoing secondary release mechanism,Evangeliou 2016; multiple monitoring sources
+2015_fire_context,2015,CEZ_all_forests,Sr-90_forest_inventory,~31,PBq,~31 PBq Sr-90 in CEZ forest ecosystem; more mobile than Cs-137 in post-fire runoff,Multiple monitoring sources
+2018_wildfire_experiment,2018,CEZ_experimental,Cs-137_dissolved_flux,4.9,Bq_per_m2,Post-fire dissolved 137Cs flux; fire experiments quantified resuspension factors; Kashparov / Semioshkina methods,PubMed doi:10.1016/j.jenvrad.2020.106270
+2018_wildfire_experiment,2018,CEZ_experimental,Cs-137_particulate_flux,161,Bq_per_m2,Particulate Cs-137 post-fire flux; much higher than dissolved; consistent with high Kd,PubMed doi:10.1016/j.jenvrad.2020.106270
+modeling_method,all_events,N/A,N/A,N/A,N/A,FLEXPART Lagrangian particle dispersion model (NOAA/ARL) used for atmospheric transport in 2015 fires; WRF-Chem used for 2020 PM2.5; speciation critical for dose assessment,Evangeliou 2016; MDPI 2021

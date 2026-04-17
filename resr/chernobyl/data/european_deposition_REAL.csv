@@ -1,0 +1,29 @@
+location,country,Cs137_kBq_per_m2,measurement_period,notes,source
+CEZ_30km_inner_zone,Ukraine/Belarus,>1500,post-1986,Inner 30km exclusion zone highest contamination,OECD-NEA Ch.II
+Bryansk-Belarus_spot_villages,Russia/Belarus,up to 5000,post-1986,Highest deposition outside 30km zone; hotspot from northeastern plume trajectory,OECD-NEA Ch.II
+Kaluga-Tula-Orel_spot,Russia,<600,post-1986,,OECD-NEA Ch.II
+Contaminated_areas_>1500_kBq,FSU,>1500,post-1986,3100 km2 area exceeded 1500 kBq/m2,OECD-NEA Ch.II
+Contaminated_areas_600-1500,FSU,600-1500,post-1986,7200 km2 area,OECD-NEA Ch.II
+Contaminated_areas_40-200,FSU,40-200,post-1986,103000 km2 area,OECD-NEA Ch.II
+Gävle_Sweden_hotspot,Sweden,185,post-1986,High-deposition area 2-4 km2; wet deposition during rainfall,OECD-NEA Ch.II
+Upper_Austria,Austria,59,post-1986,Elevated Alpine deposition,OECD-NEA Ch.II
+Salzburg,Austria,46,post-1986,,OECD-NEA Ch.II
+Carinthia,Austria,33,post-1986,,OECD-NEA Ch.II
+Portugal,Portugal,0.02,post-1986,Lowest measured in Europe; extreme western Europe,OECD-NEA Ch.II
+Europe_threshold_contaminated,Europe,>37,post-1986,5 million people in areas >37 kBq/m2 Cs-137; regulatory threshold in FSU,OECD-NEA Ch.II; OECD-NEA Ch.IV
+Europe_total_deposition,Europe total,80 PBq,post-1986,8e16 Bq = 80 PBq total Cs-137 deposited in all Europe including FSU,JRC Cs-137 Atlas 1998
+Belarus_share,Belarus,26.8 PBq (33.5%),post-1986,Largest national share; northern Belarus severely affected,JRC Cs-137 Atlas 1998
+Russia_share,Russia,19.2 PBq (24%),post-1986,,JRC Cs-137 Atlas 1998
+Contamination_area_>180kBq,FSU,29400 km2,post-1986,Area exceeding 180 kBq/m2 Cs-137,WNA
+Contamination_area_>40kBq,Europe,~2% of European territory,,~40 kBq/m2 is regulatory threshold for strict control in JRC Atlas,JRC Cs-137 Atlas 1998
+daily_I131_Apr26,Source (reactor),704 PBq released,1986-04-26,Highest single-day release; wind primarily southward then shifted,OECD-NEA Ch.II Table 2
+daily_I131_Apr27,Source (reactor),204 PBq released,1986-04-27,,OECD-NEA Ch.II Table 2
+daily_I131_Apr28,Source (reactor),150 PBq released,1986-04-28,Plume reaching Sweden; Swedish detection April 28,OECD-NEA Ch.II Table 2
+daily_I131_Apr29,Source (reactor),102 PBq released,1986-04-29,,OECD-NEA Ch.II Table 2
+daily_I131_Apr30,Source (reactor),69 PBq released,1986-04-30,,OECD-NEA Ch.II Table 2
+daily_I131_May01,Source (reactor),62 PBq released,1986-05-01,Declining as graphite fire suppression progresses,OECD-NEA Ch.II Table 2
+daily_I131_May02,Source (reactor),102 PBq released,1986-05-02,Secondary spike in release rate,OECD-NEA Ch.II Table 2
+daily_I131_May03,Source (reactor),107 PBq released,1986-05-03,,OECD-NEA Ch.II Table 2
+daily_I131_May04,Source (reactor),130 PBq released,1986-05-04,,OECD-NEA Ch.II Table 2
+daily_I131_May05,Source (reactor),130 PBq released,1986-05-05,Fire extinguished; last day of significant release,OECD-NEA Ch.II Table 2
+total_I131_10days,Source,1760 PBq,1986-04-26 to 1986-05-05,Total I-131 released over 10 days,OECD-NEA Ch.II Table 2

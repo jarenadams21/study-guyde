@@ -1,0 +1,26 @@
+country_or_region,station_or_city,date_range,activity_conc_mBq_m3,deposition_Bq_m2,notes,source
+Romania,Bucharest,2017-09-30,145,,Single 24-hour sample; highest confirmed station measurement in Europe; peak of plume passage,PNAS 2019 doi:10.1073/pnas.1907571116; ScienceDirect 2018 doi:10.1016/j.jenvrad.2018.06.018
+Romania,Multiple stations,2017-09-28 to 2017-10-05,176,,Maximum measured across all Romania stations during episode; eastern Romania in direct transport path,PNAS 2019 Zheng et al.
+Bulgaria_SE_Europe,Multiple stations,2017-09-28 to 2017-10-05,,100,Deposition up to 100 Bq/m2 in southeastern Europe; wet deposition contributed,PNAS 2019 doi:10.1073/pnas.1907571116
+Scandinavia_Finland,Multiple stations,2017-09-30 to 2017-10-08,,90,Deposition up to 90 Bq/m2; dry fallout from elevated transport,PNAS 2019 doi:10.1073/pnas.1907571116
+Scandinavia_Sweden,Multiple stations,2017-10-01 to 2017-10-08,,45,Deposition up to 45 Bq/m2 Sweden,PNAS 2019 doi:10.1073/pnas.1907571116
+Mayak_vicinity_Russia,Near Mayak nuclear complex,2017-09-26,,500-1200,Deposition at Ural source region 500-1200 Bq/m2; source reconstructed as 26 September 2017 major release of ~250 TBq Ru-106,PNAS 2019 doi:10.1073/pnas.1907571116
+W_Ural_Russia,Western Ural monitoring stations,2017-09-23 to 2017-09-25,,17-30,Earlier small releases 23-25 September (<=2 TBq each); western Ural stations,PNAS 2019 doi:10.1073/pnas.1907571116
+Czech_Republic,Czech monitoring network,2017-09-30 to 2017-10-05,1-10,,Range reported; intermediate Central European signal,ScienceDirect 2018 doi:10.1016/j.jenvrad.2018.06.018
+Austria,Austrian monitoring network,2017-09-30 to 2017-10-05,1-10,,Range reported,ScienceDirect 2018 doi:10.1016/j.jenvrad.2018.06.018
+Norway,Norwegian monitoring network,2017-09-30 to 2017-10-08,1-10,,Range reported,ScienceDirect 2018 doi:10.1016/j.jenvrad.2018.06.018
+Italy_Milan,Milan ARPA station,2017-10-02,~few_mBq_m3,,First Italian lab to report detection on 2 October 2017; millibecquerel per cubic metre range,PNAS 2019
+France_Seyne-sur-Mer,IRSN station Seyne-sur-Mer,2017-09-28 to 2017-10-05,0.0077,,7.7 micro-Bq/m3 = 0.0077 mBq/m3; far lower than Central European measurements; western France largely shielded from main plume,ScienceDirect 2018
+Portugal,Portugal monitoring,2017-09-28 to 2017-10-10,<MDL,,Below detection limit; extreme western Europe not reached by main plume,ScienceDirect 2018
+Spain,Spain monitoring,2017-09-28 to 2017-10-10,<MDL,,Below detection limit,ScienceDirect 2018
+Great_Britain,UK monitoring network,2017-09-28 to 2017-10-10,<MDL,,Below detection limit; prevailing westerly airflow deflected plume away from British Isles,ScienceDirect 2018
+Benelux,Belgium Netherlands Luxembourg,2017-09-28 to 2017-10-10,<MDL,,Below detection limit,ScienceDirect 2018
+Guadeloupe_French_Antilles,Guadeloupe monitoring,2017-10-01 to 2017-10-15,micro_Bq_m3_range,,Detected at microbequerel per cubic metre levels; long-range trans-Atlantic transport,PNAS 2019
+Kuwait,Kuwait monitoring,2017-10-01 to 2017-10-15,micro_Bq_m3_range,,Detected at micro-Bq/m3; southward transport via Middle East,PNAS 2019
+Florida_USA,Florida monitoring,2017-10-01 to 2017-10-15,micro_Bq_m3_range,,Detected in Florida; intercontinental transport via upper troposphere/stratosphere,PNAS 2019
+Mongolia,Mongolia monitoring,2017-10-01 to 2017-10-20,micro_Bq_m3_range,,Detected in eastern Asia; global dispersal confirmed by multiple stations,PNAS 2019
+Europe_total_episode,31 European countries,2017-09-25 to 2017-10-15,,,Detected in 31 European countries; largest radioactive atmospheric release in Europe since Chernobyl 1986; reconstructed total release 200-600 TBq (best estimate ~250 TBq) on 26 September 2017,PNAS 2019; Nature Comms 2020 doi:10.1038/s41467-020-16316-3
+source_identity,Mayak nuclear complex Russia,2017-09-26,,,Isotopic analysis shows non-natural Ru isotope ratios consistent with civilian Russian VVER reactor reprocessing; consistent with Mayak PA facility; Russia never officially confirmed source,Nature Communications 2020 doi:10.1038/s41467-020-16316-3
+dose_assessment_Europe,All European detections,2017-09-25 to 2017-10-15,,,Maximum inhalation dose ~0.3 µSv in Romania/Bulgaria; trivial vs annual background ~2.4 mSv/yr; no public health concern identified,ScienceDirect 2018 doi:10.1016/j.jenvrad.2018.06.018
+ru106_half_life,Physical property,N/A,,,Ru-106 t1/2 = 376 days; decays to Rh-106 (t1/2=30s beta); activity largely decayed by 2018-2019; no environmental persistence,Nuclear data tables
+ru103_absent,Physical property,N/A,,,Ru-103 t1/2=39 days absent from 2017 samples — proves release was from reprocessed spent fuel (fission products chemically separated from U/Pu matrix); not fresh reactor fuel or accident scenario,Nature Communications 2020 doi:10.1038/s41467-020-16316-3

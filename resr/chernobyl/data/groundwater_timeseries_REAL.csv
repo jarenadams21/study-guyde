@@ -1,0 +1,34 @@
+location,radionuclide,year_or_period,concentration_Bq_m3,concentration_Bq_L,notes,source
+Pripyat_River,Sr-90,1987,high_initial,,Post-accident; no precise early values recovered; Soviet monitoring suppressed,Historical inference
+Pripyat_River,Sr-90,1988,9600000,9600,Peak autumn 1988 flooding; units Bq/L = 9.6e6 Bq/m3; extreme flood mobilization of contaminated soils,OECD-NEA Ch.IV; Bugai 2022 Scientific Reports
+Pripyat_River,Sr-90,1991,12200000,12200,January 1991 high flood year; highest recorded Pripyat Sr-90 value; Bq/L = 1.22e7 Bq/m3,Historical data via OECD-NEA; Bugai 2022
+Pripyat_River,Sr-90,1993,1500000,,Estimated from exponential decline model; alpha=9357 Bq/m3 bulk + slow component; still elevated,Exponential model Bugai 2020 PMC7299996
+Pripyat_River_catchment,Sr-90,1990-1995,3340,,Mean dissolved Sr-90 in small CEZ catchment 1990-1995 = 3340 Bq/m3; averaged monitoring station 7km NW of ChNPP,PMC7299996 Bugai 2020 Scientific Reports
+Pripyat_River_catchment,Sr-90,2012-2016,1450,,Mean Sr-90 declined to 1450 Bq/m3 by 2012-2016; factor ~2.3 decrease over 20 years; slow decline due to long-lived reservoir,PMC7299996 Bugai 2020 Scientific Reports
+Pripyat_River_recent,Sr-90,2010-2021,180,,Maximum yearly-averaged; well below 1988/1991 peaks; >90% of Kiev reservoir input via Pripyat,Bugai 2022 Scientific Reports doi:10.1038/s41598-022-22842-5
+Pripyat_River_recent,Cs-137,2010-2021,76,,Maximum yearly-averaged; well below WHO 10000 Bq/m3 guideline,Bugai 2022 Scientific Reports
+CEZ_10km_monitoring_wells_all87,Sr-90,2019,100-100000,,Range across 87 monitoring wells; pre-accident background was 1-10 Bq/m3; 16/87 wells exceed WHO guideline 10000 Bq/m3,Bugai 2022 Scientific Reports
+CEZ_10km_monitoring_wells_all87,Sr-90_worst_well,2019,230000,,Well 1/1 at Stroybaza radioactive waste dump; 2.3e5 Bq/m3; worst single well in network,Bugai 2022 Scientific Reports
+CEZ_10km_monitoring_wells_all87,Cs-137,2019,10-100,,All wells below WHO DWS 10000 Bq/m3; Cs-137 adsorbs strongly to soil particles; low mobility,Bugai 2022 Scientific Reports
+CEZ_sarcophagus_zone,Cs-137,2015,300-72000,,Groundwater within sarcophagus/shelter footprint; locally very high Cs-137 from direct fuel contact,Bugai 2022 Scientific Reports
+CEZ_10km_zone,Pu_Am,2018-2019,0.1-1.0,,Actinides (Pu-238 Pu-239 Pu-240 Am-241) in groundwater; much lower than WHO limit 1000 Bq/m3; very low mobility,Bugai 2022 Scientific Reports
+Eocene_confined_aquifer,Sr-90,1999-2019,1-10,,Deep Eocene confined aquifer; both Cs-137 and Sr-90 near detection limits; deep aquifer protected,Bugai 2022 Scientific Reports
+Eocene_confined_aquifer,Cs-137,1999-2019,1-10,,Deep confined aquifer essentially uncontaminated; groundwater flow too slow for significant transport,Bugai 2022 Scientific Reports
+Cooling_pond_well_2_1,Sr-90,2011-2013,150000,,Average Sr-90 at monitoring well 2/1 SW of ChNPP before cooling pond drawdown; 1.5e5 Bq/m3,ScienceDirect 2023 doi:10.1016/j.scitotenv.2023.161789
+Cooling_pond_floodplain,Sr-90,2017-2019,up_to_102000,,After cooling pond drainage (began May 2014); 21% of shallow wells showed Sr-90 increases; up to 102 kBq/m3 in Pripyat floodplain N of ChNPP; exceeds WHO guideline,ScienceDirect 2023 doi:10.1016/j.scitotenv.2023.161789
+Cooling_pond_floodplain,Cs-137,2017-2019,10-100,,Cs-137 consistently 10-100 Bq/m3; no significant increase after drawdown; immobile in soil,ScienceDirect 2023 doi:10.1016/j.scitotenv.2023.161789
+Cooling_pond_floodplain,groundwater_level,2010-2019,decline_0.5_to_3.9m,,Groundwater levels declined 0.5-3.9m at 65% of shallow wells; max decline 6m near pond; changes groundwater flow direction,ScienceDirect 2023
+CEZ_polder_area,Sr-90,2002,15000,,Average Sr-90 in polder waterways 2002 = ~15000 Bq/m3; managed drainage basin contaminated,PMC7299996 Bugai 2020
+CEZ_polder_area,Sr-90,max_2002,21000,,Maximum Sr-90 in polder waterways 2002 = 21000 Bq/m3,PMC7299996 Bugai 2020
+CEZ_total_soil_inventory,Cs-137,2015,2.0e15,,Total Cs-137 remaining in all CEZ soils (decay-corrected to 2015) = 2.0e15 Bq = 2000 PBq; this drives ongoing leaching,Bugai 2022 Scientific Reports
+CEZ_total_soil_inventory,Sr-90,2015,5.4e14,,Total Sr-90 = 540 PBq; Sr-90 more mobile than Cs in acidic sandy soils; primary driver of groundwater contamination,Bugai 2022 Scientific Reports
+Sarcophagus_soil,Cs-137,2015,1.2e15,,1200 PBq Cs-137 in sarcophagus zone soils alone; dominant contamination at reactor site,Bugai 2022 Scientific Reports
+Sarcophagus_soil,Sr-90,2015,1.2e15,,1200 PBq Sr-90 near reactor; equal to Cs-137 because fuel particle material dominates here (unlike broader CEZ),Bugai 2022 Scientific Reports
+Waste_dumps,Cs-137,2015,1.6e14,,160 PBq in radioactive waste disposal sites within CEZ; secondary contamination source,Bugai 2022 Scientific Reports
+Cooling_pond_sediments,Cs-137,2015,1.2e14,,120 PBq in cooling pond sediments; pond drained 2015-2023; sediments now exposed,Bugai 2022 Scientific Reports
+Cs137_vertical_migration,CEZ_soils,2020,>90%_in_0-20cm,,>90% of Cs-137 inventory still in upper 20cm after 35 years; limited vertical migration; contrary to some early predictions,Bugai 2022 Scientific Reports
+model_parameters,Sakhan_River_catchment,1993-2016,,,Exponential model: C(t) = 9357*exp(-0.254*t) + 2500*exp(-0.002*t) Bq/m3; fast component (α=9357 k1=0.254/yr) + slow component (β=2500 k2=0.002/yr); total wash-off 1993-2016 = ~5 kBq/m2 = 1% of initial watershed inventory,PMC7299996 Bugai 2020
+Kiev_reservoir,Sr-90,2010s,well_below_100,,Both Cs-137 and Sr-90 in Kiev reservoir well below WHO guidelines; dilution by clean Dnieper headwaters; no public health concern for Kiev drinking water,Bugai 2022
+Kiev_reservoir,Cs-137,2010s,well_below_1000,,Kiev drinking water supply not affected; regulatory limits not approached,Bugai 2022
+dose_drinking_water,self-settlers_CEZ,2019,<0.1_mSv_yr,,Effective dose via drinking water pathway for people living inside CEZ = <0.1 mSv/yr; >10x below 1 mSv/yr lower reference level; not a primary dose concern,Bugai 2022 Scientific Reports
+monitoring_network_start,CEZ,1986,,,Groundwater monitoring network established immediately post-accident; 35-year continuous dataset one of longest nuclear contamination monitoring records globally,Bugai 2022

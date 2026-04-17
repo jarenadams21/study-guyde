@@ -1,0 +1,26 @@
+parameter,location,year,value_low,value_high,value_typical,units,notes,source
+current_dose_rate_pristine,Clean areas within CEZ,2020s,,,0.06,µSv/h,Equivalent to typical European city background,Chernobyl Gallery; ScienceInsights
+current_dose_rate_general_CEZ,General CEZ,2020s,0.1,1,,µSv/h,Typical touring areas,Multiple monitoring sources
+current_dose_rate_hotspots,Uncleared hotspots within CEZ,2020s,,350,,µSv/h,Year of background radiation in one hour at maximum hotspot; inaccessible areas,ScienceInsights
+current_dose_rate_near_reactor,Near reactor (historic),1986,>>3600,,>3600,mR/h equivalent,Soviet dosimeters saturated at 3.6 R/h; actual readings far higher in first days,Historical; INSAG-7
+reduction_factor_gamma_since_1986,Near ChNPP,1986-2020s,,,300x,factor,Gamma radiation near plant decreased by factor 300 since 1986,Modern monitoring sources
+reduction_factor_beta_since_1986,Near ChNPP,1986-2020s,,,100x,factor,Beta radiation near plant decreased by factor 100,Modern monitoring sources
+dominant_isotopes_remaining,CEZ general,2020s,,,Cs-137 + Sr-90,,These two isotopes account for >95% of man-made radioactivity in most contaminated zones; both ~30yr half-lives,Monitoring reports
+Cs137_decayed_fraction,Global,since 1986 to 2026,,,~50%,percent,~40 years since 1986 = ~1.3 half-lives of Cs-137 (t1/2=30.17yr); ~59% of original inventory remains in 2026,Calculated
+Sr90_decayed_fraction,Global,since 1986 to 2026,,,~42%,percent,~40 years = ~1.39 half-lives of Sr-90 (t1/2=28.8yr); ~58% remains,Calculated
+dose_goal_30km_zone,CEZ 30km,projected to 2080,,,1,mSv/yr,IAEA public dose limit; most of 30km zone projected to meet this by 2080 if NSC project stays on track,Modern monitoring projections
+room_305_2_neutron_count_increase,Room 305/2 inside sarcophagus,2017-2021,~2x,,doubled,factor,Neutron count rates nearly doubled over 4 years prior to 2021 report; signal of ongoing fission,Doroshenko (ISPNPP Kiev) via Science AAAS 2021
+room_305_2_cause,Room 305/2,2021,,,,,Drying of humidified fuel-containing materials (FCM) makes moderated neutrons more effective at splitting U nuclei; predicted by ISPNPP before NSC installation,ISPNPP Kiev; Science AAAS 2021
+room_305_2_safety_status,Room 305/2,2021,,,below threshold,,Neutron flux has not exceeded established safety limits as of 2021 reporting,ISPNPP Kiev / uatom.org
+room_305_2_access,Room 305/2,current,,,inaccessible,,Room flooded; physically inaccessible; remote sensors only,Science AAAS 2021
+corium_inventory_estimate,Reactor Unit 4 ruins,post-1986,170,220,,tonnes,Various estimates: ~170-220 tonnes of fuel-containing materials (corium + solidified lava); 95% of original core inventory estimated to remain,Multiple sources; WNA; National Geographic
+contaminated_material_NSC,NSC interior,2016,,,5500,,tonnes,5500 tonnes of contaminated sand/lead/boric acid/material plus tens of thousands of tonnes of irradiated concrete and steel,NSC project documentation
+NSC_installed,New Safe Confinement,November 2016,,,,,Arch structure slid over original sarcophagus; 108m high; 162m wide; 257m long; designed for 100 years; built by international consortium,Bechtel; Wikipedia
+NSC_design_life,New Safe Confinement,2016-2116,,,100,years,Designed to contain contamination while original sarcophagus is dismantled remotely,NSC project documentation
+2015_April_fire,CEZ forests,April-May 2015,,,9241,ha burned,Spring wildfire; see wildfire CSV for radionuclide release data,Evangeliou 2016 Scientific Reports
+2015_August_fire,CEZ forests,August 2015,,,5867,ha burned,Second 2015 fire event,Evangeliou 2016 Scientific Reports
+2020_fire_note,CEZ forests,April 2020,,,~11700,ha estimate,Large wildfire during COVID-19 period; atmospheric transport modeled; see Simulation study ScienceDirect 2021,ScienceDirect 2021
+2022_radiation_spike_cause,CEZ monitoring network,February 25 2022,,,erroneous,,Russian military vehicles entering CEZ disrupted wireless communication between monitoring sensors and base station; spikes were communication errors not actual radiation increases,ScienceDirect 2023; ScienceInsights
+wildlife_birds_species_richness_reduction,High-radiation CEZ areas,2006-2008,50%,,,percent reduction vs background areas,Mousseau and Moller point count surveys; 300 locations; 896 biotic inventories; contested by other researchers,Mousseau and Moller 2011 Bulletin of the Atomic Scientists
+wildlife_bird_abundance_reduction,High-radiation CEZ areas,2006-2008,66%,,,percent reduction vs background areas,All major taxonomic groups showed decline in high-radiation areas,Mousseau and Moller
+wildlife_controversy_note,CEZ general,ongoing,,,,Mousseau/Moller findings contested; some researchers report wildlife thriving due to absence of humans; scientific debate unresolved; Moller misconduct allegations complicate some co-authored work,Knowable Magazine 2022

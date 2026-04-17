@@ -1,0 +1,41 @@
+country,evacuation_period,age_group,population_persons,avg_thyroid_dose_mGy,collective_thyroid_dose_man_Gy,notes,source
+Belarus,May 1986,Pre-school 0-6yr,1126,4616,5198,Highest doses; youngest children most vulnerable,UNSCEAR 2008 Table on p.84
+Belarus,May 1986,School 7-14yr,1049,1967,2064,,UNSCEAR 2008 Table on p.84
+Belarus,May 1986,Adolescents 15-17yr,478,1518,725,,UNSCEAR 2008 Table on p.84
+Belarus,May 1986,Adults >17yr,8705,918,7991,,UNSCEAR 2008 Table on p.84
+Belarus,May 1986,All ages,11358,1407,15978,,UNSCEAR 2008 Table on p.84
+Russian Federation,1986,Pre-school 0-6yr,19,1280,24,,UNSCEAR 2008 Table on p.85
+Russian Federation,1986,School 7-14yr,22,500,11,,UNSCEAR 2008 Table on p.85
+Russian Federation,1986,Adolescents 15-17yr,10,450,4.5,,UNSCEAR 2008 Table on p.85
+Russian Federation,1986,Adults >17yr,135,310,42,,UNSCEAR 2008 Table on p.85
+Russian Federation,1986,All ages,186,440,82,Very small Russian evacuee cohort,UNSCEAR 2008 Table on p.85
+Ukraine,1986,Pre-school 0-6yr,9587,1004,9622,,UNSCEAR 2008 Table on p.85
+Ukraine,1986,School 7-14yr,10721,278,2985,,UNSCEAR 2008 Table on p.85
+Ukraine,1986,Adolescents 15-17yr,4692,230,1077,,UNSCEAR 2008 Table on p.85
+Ukraine,1986,Adults >17yr,64610,250,16175,,UNSCEAR 2008 Table on p.85
+Ukraine,1986,All ages,89600,333,29859,,UNSCEAR 2008 Table on p.85
+All countries,1986,Pre-school 0-6yr,11931,1548,18471,,UNSCEAR 2008 Table on p.85
+All countries,1986,School 7-14yr,13120,506,6643,,UNSCEAR 2008 Table on p.85
+All countries,1986,Adolescents 15-17yr,5815,392,2280,,UNSCEAR 2008 Table on p.85
+All countries,1986,Adults >17yr,83645,349,29172,,UNSCEAR 2008 Table on p.85
+All countries,1986,All ages,114511,494,56567,114511 total evacuees; average 494 mGy thyroid dose,UNSCEAR 2008 Table on p.85
+Belarus_thyroid_dose_distribution,May 1986,Pre-school 0-6yr dose<0.05Gy,8,,,0.7% of pre-school group,UNSCEAR 2008 Table on p.85 (Table B5)
+Belarus_thyroid_dose_distribution,May 1986,Pre-school 0-6yr dose_0.05-0.1Gy,31,,,2.8%,UNSCEAR 2008 Table B5
+Belarus_thyroid_dose_distribution,May 1986,Pre-school 0-6yr dose_0.1-0.2Gy,34,,,3.0%,UNSCEAR 2008 Table B5
+Belarus_thyroid_dose_distribution,May 1986,Pre-school 0-6yr dose_0.2-0.5Gy,126,,,11.2%,UNSCEAR 2008 Table B5
+Belarus_thyroid_dose_distribution,May 1986,Pre-school 0-6yr dose_0.5-1.0Gy,146,,,13.0%,UNSCEAR 2008 Table B5
+Belarus_thyroid_dose_distribution,May 1986,Pre-school 0-6yr dose_1.0-2.0Gy,213,,,18.9%,UNSCEAR 2008 Table B5
+Belarus_thyroid_dose_distribution,May 1986,Pre-school 0-6yr dose_2.0-5.0Gy,275,,,24.4%,UNSCEAR 2008 Table B5
+Belarus_thyroid_dose_distribution,May 1986,Pre-school 0-6yr dose_>5.0Gy,293,,,26.0% — over 1 in 4 pre-school evacuees from Belarus received >5 Gy thyroid dose,UNSCEAR 2008 Table B5
+Belarus_thyroid_dose_distribution,May 1986,All ages dose<0.05Gy,357,,,3.1% of total 11358,UNSCEAR 2008 Table B5
+Belarus_thyroid_dose_distribution,May 1986,All ages dose_0.05-0.1Gy,719,,,6.3%,UNSCEAR 2008 Table B5
+Belarus_thyroid_dose_distribution,May 1986,All ages dose_0.1-0.2Gy,1133,,,10.0%,UNSCEAR 2008 Table B5
+Belarus_thyroid_dose_distribution,May 1986,All ages dose_0.2-0.5Gy,2529,,,22.3%,UNSCEAR 2008 Table B5
+Belarus_thyroid_dose_distribution,May 1986,All ages dose_0.5-1.0Gy,2574,,,22.7%,UNSCEAR 2008 Table B5
+Belarus_thyroid_dose_distribution,May 1986,All ages dose_1.0-2.0Gy,2087,,,18.4%,UNSCEAR 2008 Table B5
+Belarus_thyroid_dose_distribution,May 1986,All ages dose_2.0-5.0Gy,1432,,,12.6%,UNSCEAR 2008 Table B5
+Belarus_thyroid_dose_distribution,May 1986,All ages dose_>5.0Gy,527,,,4.6% — 527 individuals received >5 Gy thyroid dose,UNSCEAR 2008 Table B5
+Belarus_all_evacuees,entire 1986,Pre-school 0-6yr dose<0.05Gy,27,,,1.2%,UNSCEAR 2008 Table on p.86
+Belarus_all_evacuees,entire 1986,Pre-school 0-6yr dose_1.0-2.0Gy,490,,,21.1%,UNSCEAR 2008 Table on p.86
+Belarus_all_evacuees,entire 1986,Pre-school 0-6yr dose_>5.0Gy,486,,,20.9%,UNSCEAR 2008 Table on p.86
+Belarus_all_evacuees,entire 1986,All ages total,24725,,,Total Belarus 1986 evacuees all waves,UNSCEAR 2008 Table on p.86
